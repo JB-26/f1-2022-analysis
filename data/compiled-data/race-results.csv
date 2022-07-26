@@ -1,221 +1,241 @@
 ,POS,Driver,Car,Laps,Time/Retired,PTS,Race
-219,1,Charles Leclerc,Ferrari,57,37:33.6,26,BAHRAIN
-218,2,Carlos Sainz,Ferrari,57,+5.598s,18,BAHRAIN
-217,3,Lewis Hamilton,Mercedes,57,+9.675s,15,BAHRAIN
-216,4,George Russell,Mercedes,57,+11.211s,12,BAHRAIN
-215,5,Kevin Magnussen,Haas Ferrari,57,+14.754s,10,BAHRAIN
-214,6,Valtteri Bottas,Alfa Romeo Ferrari,57,+16.119s,8,BAHRAIN
-213,7,Esteban Ocon,Alpine Renault,57,+19.423s,6,BAHRAIN
-212,8,Yuki Tsunoda,AlphaTauri RBPT,57,+20.386s,4,BAHRAIN
-211,9,Fernando Alonso,Alpine Renault,57,+22.390s,2,BAHRAIN
-210,10,Zhou Guanyu,Alfa Romeo Ferrari,57,+23.064s,1,BAHRAIN
-209,11,Mick Schumacher,Haas Ferrari,57,+32.574s,0,BAHRAIN
-208,12,Lance Stroll,Aston Martin Aramco Mercedes,57,+45.873s,0,BAHRAIN
-207,13,Alexander Albon,Williams Mercedes,57,+53.932s,0,BAHRAIN
-206,14,Daniel Ricciardo,McLaren Mercedes,57,+54.975s,0,BAHRAIN
-205,15,Lando Norris,McLaren Mercedes,57,+56.335s,0,BAHRAIN
-204,16,Nicholas Latifi,Williams Mercedes,57,+61.795s,0,BAHRAIN
-203,17,Nico Hulkenberg,Aston Martin Aramco Mercedes,57,+63.829s,0,BAHRAIN
-202,18,Sergio Perez,Red Bull Racing RBPT,56,DNF,0,BAHRAIN
-201,19,Max Verstappen,Red Bull Racing RBPT,54,DNF,0,BAHRAIN
-200,NC,Pierre Gasly,AlphaTauri RBPT,44,DNF,0,BAHRAIN
-199,1,Max Verstappen,Red Bull Racing RBPT,50,24:19.3,25,SAUDI ARABIA
-198,2,Charles Leclerc,Ferrari,50,+0.549s,19,SAUDI ARABIA
-197,3,Carlos Sainz,Ferrari,50,+8.097s,15,SAUDI ARABIA
-196,4,Sergio Perez,Red Bull Racing RBPT,50,+10.800s,12,SAUDI ARABIA
-195,5,George Russell,Mercedes,50,+32.732s,10,SAUDI ARABIA
-194,6,Esteban Ocon,Alpine Renault,50,+56.017s,8,SAUDI ARABIA
-193,7,Lando Norris,McLaren Mercedes,50,+56.124s,6,SAUDI ARABIA
-192,8,Pierre Gasly,AlphaTauri RBPT,50,+62.946s,4,SAUDI ARABIA
-191,9,Kevin Magnussen,Haas Ferrari,50,+64.308s,2,SAUDI ARABIA
-190,10,Lewis Hamilton,Mercedes,50,+73.948s,1,SAUDI ARABIA
-189,11,Zhou Guanyu,Alfa Romeo Ferrari,50,+82.215s,0,SAUDI ARABIA
-188,12,Nico Hulkenberg,Aston Martin Aramco Mercedes,50,+91.742s,0,SAUDI ARABIA
-187,13,Lance Stroll,Aston Martin Aramco Mercedes,49,+1 lap,0,SAUDI ARABIA
-186,14,Alexander Albon,Williams Mercedes,47,DNF,0,SAUDI ARABIA
-185,NC,Valtteri Bottas,Alfa Romeo Ferrari,36,DNF,0,SAUDI ARABIA
-184,NC,Fernando Alonso,Alpine Renault,35,DNF,0,SAUDI ARABIA
-183,NC,Daniel Ricciardo,McLaren Mercedes,35,DNF,0,SAUDI ARABIA
-182,NC,Nicholas Latifi,Williams Mercedes,14,DNF,0,SAUDI ARABIA
-181,NC,Yuki Tsunoda,AlphaTauri RBPT,0,DNS,0,SAUDI ARABIA
-180,NC,Mick Schumacher,Haas Ferrari,0,DNS,0,SAUDI ARABIA
-179,1,Charles Leclerc,Ferrari,58,27:46.5,26,AUSTRALIA
-178,2,Sergio Perez,Red Bull Racing RBPT,58,+20.524s,18,AUSTRALIA
-177,3,George Russell,Mercedes,58,+25.593s,15,AUSTRALIA
-176,4,Lewis Hamilton,Mercedes,58,+28.543s,12,AUSTRALIA
-175,5,Lando Norris,McLaren Mercedes,58,+53.303s,10,AUSTRALIA
-174,6,Daniel Ricciardo,McLaren Mercedes,58,+53.737s,8,AUSTRALIA
-173,7,Esteban Ocon,Alpine Renault,58,+61.683s,6,AUSTRALIA
-172,8,Valtteri Bottas,Alfa Romeo Ferrari,58,+68.439s,4,AUSTRALIA
-171,9,Pierre Gasly,AlphaTauri RBPT,58,+76.221s,2,AUSTRALIA
-170,10,Alexander Albon,Williams Mercedes,58,+79.382s,1,AUSTRALIA
-169,11,Zhou Guanyu,Alfa Romeo Ferrari,58,+81.695s,0,AUSTRALIA
-168,12,Lance Stroll,Aston Martin Aramco Mercedes,58,+88.598s,0,AUSTRALIA
-167,13,Mick Schumacher,Haas Ferrari,57,+1 lap,0,AUSTRALIA
-166,14,Kevin Magnussen,Haas Ferrari,57,+1 lap,0,AUSTRALIA
-165,15,Yuki Tsunoda,AlphaTauri RBPT,57,+1 lap,0,AUSTRALIA
-164,16,Nicholas Latifi,Williams Mercedes,57,+1 lap,0,AUSTRALIA
-163,17,Fernando Alonso,Alpine Renault,57,+1 lap,0,AUSTRALIA
-162,NC,Max Verstappen,Red Bull Racing RBPT,38,DNF,0,AUSTRALIA
-161,NC,Sebastian Vettel,Aston Martin Aramco Mercedes,22,DNF,0,AUSTRALIA
-160,NC,Carlos Sainz,Ferrari,1,DNF,0,AUSTRALIA
-159,1,Max Verstappen,RED BULL RACING RBPT,63,32:08.0,26,ITALY
-158,2,Sergio Perez,RED BULL RACING RBPT,63,+16.527s,18,ITALY
-157,3,Lando Norris,MCLAREN MERCEDES,63,+34.834s,15,ITALY
-156,4,George Russell,MERCEDES,63,+42.506s,12,ITALY
-155,5,Valtteri Bottas,ALFA ROMEO FERRARI,63,+43.181s,10,ITALY
-154,6,Charles Leclerc,FERRARI,63,+56.072s,8,ITALY
-153,7,Yuki Tsunoda,ALPHATAURI RBPT,63,+61.110s,6,ITALY
-152,8,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,63,+70.892s,4,ITALY
-151,9,Kevin Magnussen,HAAS FERRARI,63,+75.260s,2,ITALY
-150,10,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,62,+1 lap,1,ITALY
-149,11,Alexander Albon,WILLIAMS MERCEDES,62,+1 lap,0,ITALY
-148,12,Pierre Gasly,ALPHATAURI RBPT,62,+1 lap,0,ITALY
-147,13,Lewis Hamilton,MERCEDES,62,+1 lap,0,ITALY
-146,14,Esteban Ocon,ALPINE RENAULT,62,+1 lap,0,ITALY
-145,15,Zhou Guanyu,ALFA ROMEO FERRARI,62,+1 lap,0,ITALY
-144,16,Nicholas Latifi,WILLIAMS MERCEDES,62,+1 lap,0,ITALY
-143,17,Mick Schumacher,HAAS FERRARI,62,+1 lap,0,ITALY
-142,18,Daniel Ricciardo,MCLAREN MERCEDES,62,+1 lap,0,ITALY
-141,NC,Fernando Alonso,ALPINE RENAULT,6,DNF,0,ITALY
-140,NC,Carlos Sainz,FERRARI,0,DNF,0,ITALY
-139,1,Max Verstappen,RED BULL RACING RBPT,57,34:24.3,26,MIAMI
-138,2,Charles Leclerc,FERRARI,57,+3.786s,18,MIAMI
-137,3,Carlos Sainz,FERRARI,57,+8.229s,15,MIAMI
-136,4,Sergio Perez,RED BULL RACING RBPT,57,+10.638s,12,MIAMI
-135,5,George Russell,MERCEDES,57,+18.582s,10,MIAMI
-134,6,Lewis Hamilton,MERCEDES,57,+21.368s,8,MIAMI
-133,7,Valtteri Bottas,ALFA ROMEO FERRARI,57,+25.073s,6,MIAMI
-132,8,Esteban Ocon,ALPINE RENAULT,57,+28.386s,4,MIAMI
-131,9,Alexander Albon,WILLIAMS MERCEDES,57,+32.365s,2,MIAMI
-130,10,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,57,+37.026s,1,MIAMI
-129,11,Fernando Alonso,ALPINE RENAULT,57,+37.128s,0,MIAMI
-128,12,Yuki Tsunoda,ALPHATAURI RBPT,57,+40.146s,0,MIAMI
-127,13,Daniel Ricciardo,MCLAREN MERCEDES,57,+40.902s,0,MIAMI
-126,14,Nicholas Latifi,WILLIAMS MERCEDES,57,+49.936s,0,MIAMI
-125,15,Mick Schumacher,HAAS FERRARI,57,+73.305s,0,MIAMI
-124,16,Kevin Magnussen,HAAS FERRARI,56,DNF,0,MIAMI
-123,17,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,54,DNF,0,MIAMI
-122,NC,Pierre Gasly,ALPHATAURI RBPT,45,DNF,0,MIAMI
-121,NC,Lando Norris,MCLAREN MERCEDES,39,DNF,0,MIAMI
-120,NC,Zhou Guanyu,ALFA ROMEO FERRARI,6,DNF,0,MIAMI
-119,1,Max Verstappen,RED BULL RACING RBPT,66,37:20.5,25,SPAIN
-118,2,Sergio Perez,RED BULL RACING RBPT,66,+13.072s,19,SPAIN
-117,3,George Russell,MERCEDES,66,+32.927s,15,SPAIN
-116,4,Carlos Sainz,FERRARI,66,+45.208s,12,SPAIN
-115,5,Lewis Hamilton,MERCEDES,66,+54.534s,10,SPAIN
-114,6,Valtteri Bottas,ALFA ROMEO FERRARI,66,+59.976s,8,SPAIN
-113,7,Esteban Ocon,ALPINE RENAULT,66,+75.397s,6,SPAIN
-112,8,Lando Norris,MCLAREN MERCEDES,66,+83.235s,4,SPAIN
-111,9,Fernando Alonso,ALPINE RENAULT,65,+1 lap,2,SPAIN
-110,10,Yuki Tsunoda,ALPHATAURI RBPT,65,+1 lap,1,SPAIN
-109,11,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,65,+1 lap,0,SPAIN
-108,12,Daniel Ricciardo,MCLAREN MERCEDES,65,+1 lap,0,SPAIN
-107,13,Pierre Gasly,ALPHATAURI RBPT,65,+1 lap,0,SPAIN
-106,14,Mick Schumacher,HAAS FERRARI,65,+1 lap,0,SPAIN
-105,15,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,65,+1 lap,0,SPAIN
-104,16,Nicholas Latifi,WILLIAMS MERCEDES,64,+2 laps,0,SPAIN
-103,17,Kevin Magnussen,HAAS FERRARI,64,+2 laps,0,SPAIN
-102,18,Alexander Albon,WILLIAMS MERCEDES,64,+2 laps,0,SPAIN
-101,NC,Zhou Guanyu,ALFA ROMEO FERRARI,28,DNF,0,SPAIN
-100,NC,Charles Leclerc,FERRARI,27,DNF,0,SPAIN
-99,1,Sergio Perez,RED BULL RACING RBPT,64,56:30.3,25,MONACO
-98,2,Carlos Sainz,FERRARI,64,+1.154s,18,MONACO
-97,3,Max Verstappen,RED BULL RACING RBPT,64,+1.491s,15,MONACO
-96,4,Charles Leclerc,FERRARI,64,+2.922s,12,MONACO
-95,5,George Russell,MERCEDES,64,+11.968s,10,MONACO
-94,6,Lando Norris,MCLAREN MERCEDES,64,+12.231s,9,MONACO
-93,7,Fernando Alonso,ALPINE RENAULT,64,+46.358s,6,MONACO
-92,8,Lewis Hamilton,MERCEDES,64,+50.388s,4,MONACO
-91,9,Valtteri Bottas,ALFA ROMEO FERRARI,64,+52.525s,2,MONACO
-90,10,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,64,+53.536s,1,MONACO
-89,11,Pierre Gasly,ALPHATAURI RBPT,64,+54.289s,0,MONACO
-88,12,Esteban Ocon,ALPINE RENAULT,64,+55.644s,0,MONACO
-87,13,Daniel Ricciardo,MCLAREN MERCEDES,64,+57.635s,0,MONACO
-86,14,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,64,+60.802s,0,MONACO
-85,15,Nicholas Latifi,WILLIAMS MERCEDES,63,+1 lap,0,MONACO
-84,16,Zhou Guanyu,ALFA ROMEO FERRARI,63,+1 lap,0,MONACO
-83,17,Yuki Tsunoda,ALPHATAURI RBPT,63,+1 lap,0,MONACO
-82,NC,Alexander Albon,WILLIAMS MERCEDES,48,DNF,0,MONACO
-81,NC,Mick Schumacher,HAAS FERRARI,24,DNF,0,MONACO
-80,NC,Kevin Magnussen,HAAS FERRARI,19,DNF,0,MONACO
-79,1,Max Verstappen,Red Bull Racing RBPT,51,34:05.9,25,AZERBAIJAN 
-78,2,Sergio Perez,Red Bull Racing RBPT,51,+20.823s,19,AZERBAIJAN 
-77,3,George Russell,Mercedes,51,+45.995s,15,AZERBAIJAN 
-76,4,Lewis Hamilton,Mercedes,51,+71.679s,12,AZERBAIJAN 
-75,5,Pierre Gasly,AlphaTauri RBPT,51,+77.299s,10,AZERBAIJAN 
-74,6,Sebastian Vettel,Aston Martin Aramco Mercedes,51,+84.099s,8,AZERBAIJAN 
-73,7,Fernando Alonso,Alpine Renault,51,+88.596s,6,AZERBAIJAN 
-72,8,Daniel Ricciardo,McLaren Mercedes,51,+92.207s,4,AZERBAIJAN 
-71,9,Lando Norris,McLaren Mercedes,51,+92.556s,2,AZERBAIJAN 
-70,10,Esteban Ocon,Alpine Renault,51,+108.184s,1,AZERBAIJAN 
-69,11,Valtteri Bottas,Alfa Romeo Ferrari,50,+1 lap,0,AZERBAIJAN 
-68,12,Alexander Albon,Williams Mercedes,50,+1 lap,0,AZERBAIJAN 
-67,13,Yuki Tsunoda,AlphaTauri RBPT,50,+1 lap,0,AZERBAIJAN 
-66,14,Mick Schumacher,Haas Ferrari,50,+1 lap,0,AZERBAIJAN 
-65,15,Nicholas Latifi,Williams Mercedes,50,+1 lap,0,AZERBAIJAN 
-64,16,Lance Stroll,Aston Martin Aramco Mercedes,46,DNF,0,AZERBAIJAN 
-63,NC,Kevin Magnussen,Haas Ferrari,31,DNF,0,AZERBAIJAN 
-62,NC,Zhou Guanyu,Alfa Romeo Ferrari,23,DNF,0,AZERBAIJAN 
-61,NC,Charles Leclerc,Ferrari,21,DNF,0,AZERBAIJAN 
-60,NC,Carlos Sainz,Ferrari,8,DNF,0,AZERBAIJAN 
-59,1,Max Verstappen,Red Bull Racing RBPT,70,36:21.8,25,CANADA 
-58,2,Carlos Sainz,Ferrari,70,+0.993s,19,CANADA 
-57,3,Lewis Hamilton,Mercedes,70,+7.006s,15,CANADA 
-56,4,George Russell,Mercedes,70,+12.313s,12,CANADA 
-55,5,Charles Leclerc,Ferrari,70,+15.168s,10,CANADA 
-54,6,Esteban Ocon,Alpine Renault,70,+23.890s,8,CANADA 
-53,7,Valtteri Bottas,Alfa Romeo Ferrari,70,+25.247s,6,CANADA 
-52,8,Zhou Guanyu,Alfa Romeo Ferrari,70,+26.952s,4,CANADA 
-51,9,Fernando Alonso,Alpine Renault,70,+29.945s,2,CANADA 
-50,10,Lance Stroll,Aston Martin Aramco Mercedes,70,+38.222s,1,CANADA 
-49,11,Daniel Ricciardo,McLaren Mercedes,70,+43.047s,0,CANADA 
-48,12,Sebastian Vettel,Aston Martin Aramco Mercedes,70,+44.245s,0,CANADA 
-47,13,Alexander Albon,Williams Mercedes,70,+44.893s,0,CANADA 
-46,14,Pierre Gasly,AlphaTauri RBPT,70,+45.183s,0,CANADA 
-45,15,Lando Norris,McLaren Mercedes,70,+52.145s,0,CANADA 
-44,16,Nicholas Latifi,Williams Mercedes,70,+59.978s,0,CANADA 
-43,17,Kevin Magnussen,Haas Ferrari,70,+68.180s,0,CANADA 
-42,NC,Yuki Tsunoda,AlphaTauri RBPT,47,DNF,0,CANADA 
-41,NC,Mick Schumacher,Haas Ferrari,18,DNF,0,CANADA 
-40,NC,Sergio Perez,Red Bull Racing RBPT,7,DNF,0,CANADA 
-39,1,Carlos Sainz,Ferrari,52,17:50.3,25,GREAT BRITAIN 
-38,2,Sergio Perez,Red Bull Racing RBPT,52,+3.779s,18,GREAT BRITAIN 
-37,3,Lewis Hamilton,Mercedes,52,+6.225s,16,GREAT BRITAIN 
-36,4,Charles Leclerc,Ferrari,52,+8.546s,12,GREAT BRITAIN 
-35,5,Fernando Alonso,Alpine Renault,52,+9.571s,10,GREAT BRITAIN 
-34,6,Lando Norris,McLaren Mercedes,52,+11.943s,8,GREAT BRITAIN 
-33,7,Max Verstappen,Red Bull Racing RBPT,52,+18.777s,6,GREAT BRITAIN 
-32,8,Mick Schumacher,Haas Ferrari,52,+18.995s,4,GREAT BRITAIN 
-31,9,Sebastian Vettel,Aston Martin Aramco Mercedes,52,+22.356s,2,GREAT BRITAIN 
-30,10,Kevin Magnussen,Haas Ferrari,52,+24.590s,1,GREAT BRITAIN 
-29,11,Lance Stroll,Aston Martin Aramco Mercedes,52,+26.147s,0,GREAT BRITAIN 
-28,12,Nicholas Latifi,Williams Mercedes,52,+32.511s,0,GREAT BRITAIN 
-27,13,Daniel Ricciardo,McLaren Mercedes,52,+32.817s,0,GREAT BRITAIN 
-26,14,Yuki Tsunoda,AlphaTauri RBPT,52,+40.910s,0,GREAT BRITAIN 
-25,NC,Esteban Ocon,Alpine Renault,37,DNF,0,GREAT BRITAIN 
-24,NC,Pierre Gasly,AlphaTauri RBPT,26,DNF,0,GREAT BRITAIN 
-23,NC,Valtteri Bottas,Alfa Romeo Ferrari,20,DNF,0,GREAT BRITAIN 
-22,NC,George Russell,Mercedes,0,DNF,0,GREAT BRITAIN 
-21,NC,Zhou Guanyu,Alfa Romeo Ferrari,0,DNF,0,GREAT BRITAIN 
-20,NC,Alexander Albon,Williams Mercedes,0,DNF,0,GREAT BRITAIN 
-19,1,Charles Leclerc,Ferrari,71,24:24.3,25,AUSTRIA
-18,2,Max Verstappen,Red Bull Racing RBPT,71,+1.532s,19,AUSTRIA
-17,3,Lewis Hamilton,Mercedes,71,+41.217s,15,AUSTRIA
-16,4,George Russell,Mercedes,71,+58.972s,12,AUSTRIA
-15,5,Esteban Ocon,Alpine Renault,71,+68.436s,10,AUSTRIA
-14,6,Mick Schumacher,Haas Ferrari,70,+1 lap,8,AUSTRIA
-13,7,Lando Norris,McLaren Mercedes,70,+1 lap,6,AUSTRIA
-12,8,Kevin Magnussen,Haas Ferrari,70,+1 lap,4,AUSTRIA
-11,9,Daniel Ricciardo,McLaren Mercedes,70,+1 lap,2,AUSTRIA
-10,10,Fernando Alonso,Alpine Renault,70,+1 lap,1,AUSTRIA
-9,11,Valtteri Bottas,Alfa Romeo Ferrari,70,+1 lap,0,AUSTRIA
-8,12,Alexander Albon,Williams Mercedes,70,+1 lap,0,AUSTRIA
-7,13,Lance Stroll,Aston Martin Aramco Mercedes,70,+1 lap,0,AUSTRIA
-6,14,Zhou Guanyu,Alfa Romeo Ferrari,70,+1 lap,0,AUSTRIA
-5,15,Pierre Gasly,AlphaTauri RBPT,70,+1 lap,0,AUSTRIA
-4,16,Yuki Tsunoda,AlphaTauri RBPT,70,+1 lap,0,AUSTRIA
-3,17,Sebastian Vettel,Aston Martin Aramco Mercedes,70,+1 lap,0,AUSTRIA
-2,NC,Carlos Sainz,Ferrari,56,DNF,0,AUSTRIA
-1,NC,Nicholas Latifi,Williams Mercedes,48,DNF,0,AUSTRIA
-0,NC,Sergio Perez,Red Bull Racing RBPT,24,DNF,0,AUSTRIA
+239,1,Charles Leclerc,Ferrari,57,37:33.6,26,BAHRAIN
+238,2,Carlos Sainz,Ferrari,57,+5.598s,18,BAHRAIN
+237,3,Lewis Hamilton,Mercedes,57,+9.675s,15,BAHRAIN
+236,4,George Russell,Mercedes,57,+11.211s,12,BAHRAIN
+235,5,Kevin Magnussen,Haas Ferrari,57,+14.754s,10,BAHRAIN
+234,6,Valtteri Bottas,Alfa Romeo Ferrari,57,+16.119s,8,BAHRAIN
+233,7,Esteban Ocon,Alpine Renault,57,+19.423s,6,BAHRAIN
+232,8,Yuki Tsunoda,AlphaTauri RBPT,57,+20.386s,4,BAHRAIN
+231,9,Fernando Alonso,Alpine Renault,57,+22.390s,2,BAHRAIN
+230,10,Zhou Guanyu,Alfa Romeo Ferrari,57,+23.064s,1,BAHRAIN
+229,11,Mick Schumacher,Haas Ferrari,57,+32.574s,0,BAHRAIN
+228,12,Lance Stroll,Aston Martin Aramco Mercedes,57,+45.873s,0,BAHRAIN
+227,13,Alexander Albon,Williams Mercedes,57,+53.932s,0,BAHRAIN
+226,14,Daniel Ricciardo,McLaren Mercedes,57,+54.975s,0,BAHRAIN
+225,15,Lando Norris,McLaren Mercedes,57,+56.335s,0,BAHRAIN
+224,16,Nicholas Latifi,Williams Mercedes,57,+61.795s,0,BAHRAIN
+223,17,Nico Hulkenberg,Aston Martin Aramco Mercedes,57,+63.829s,0,BAHRAIN
+222,18,Sergio Perez,Red Bull Racing RBPT,56,DNF,0,BAHRAIN
+221,19,Max Verstappen,Red Bull Racing RBPT,54,DNF,0,BAHRAIN
+220,NC,Pierre Gasly,AlphaTauri RBPT,44,DNF,0,BAHRAIN
+219,1,Max Verstappen,Red Bull Racing RBPT,50,24:19.3,25,SAUDI ARABIA
+218,2,Charles Leclerc,Ferrari,50,+0.549s,19,SAUDI ARABIA
+217,3,Carlos Sainz,Ferrari,50,+8.097s,15,SAUDI ARABIA
+216,4,Sergio Perez,Red Bull Racing RBPT,50,+10.800s,12,SAUDI ARABIA
+215,5,George Russell,Mercedes,50,+32.732s,10,SAUDI ARABIA
+214,6,Esteban Ocon,Alpine Renault,50,+56.017s,8,SAUDI ARABIA
+213,7,Lando Norris,McLaren Mercedes,50,+56.124s,6,SAUDI ARABIA
+212,8,Pierre Gasly,AlphaTauri RBPT,50,+62.946s,4,SAUDI ARABIA
+211,9,Kevin Magnussen,Haas Ferrari,50,+64.308s,2,SAUDI ARABIA
+210,10,Lewis Hamilton,Mercedes,50,+73.948s,1,SAUDI ARABIA
+209,11,Zhou Guanyu,Alfa Romeo Ferrari,50,+82.215s,0,SAUDI ARABIA
+208,12,Nico Hulkenberg,Aston Martin Aramco Mercedes,50,+91.742s,0,SAUDI ARABIA
+207,13,Lance Stroll,Aston Martin Aramco Mercedes,49,+1 lap,0,SAUDI ARABIA
+206,14,Alexander Albon,Williams Mercedes,47,DNF,0,SAUDI ARABIA
+205,NC,Valtteri Bottas,Alfa Romeo Ferrari,36,DNF,0,SAUDI ARABIA
+204,NC,Fernando Alonso,Alpine Renault,35,DNF,0,SAUDI ARABIA
+203,NC,Daniel Ricciardo,McLaren Mercedes,35,DNF,0,SAUDI ARABIA
+202,NC,Nicholas Latifi,Williams Mercedes,14,DNF,0,SAUDI ARABIA
+201,NC,Yuki Tsunoda,AlphaTauri RBPT,0,DNS,0,SAUDI ARABIA
+200,NC,Mick Schumacher,Haas Ferrari,0,DNS,0,SAUDI ARABIA
+199,1,Charles Leclerc,Ferrari,58,27:46.5,26,AUSTRALIA
+198,2,Sergio Perez,Red Bull Racing RBPT,58,+20.524s,18,AUSTRALIA
+197,3,George Russell,Mercedes,58,+25.593s,15,AUSTRALIA
+196,4,Lewis Hamilton,Mercedes,58,+28.543s,12,AUSTRALIA
+195,5,Lando Norris,McLaren Mercedes,58,+53.303s,10,AUSTRALIA
+194,6,Daniel Ricciardo,McLaren Mercedes,58,+53.737s,8,AUSTRALIA
+193,7,Esteban Ocon,Alpine Renault,58,+61.683s,6,AUSTRALIA
+192,8,Valtteri Bottas,Alfa Romeo Ferrari,58,+68.439s,4,AUSTRALIA
+191,9,Pierre Gasly,AlphaTauri RBPT,58,+76.221s,2,AUSTRALIA
+190,10,Alexander Albon,Williams Mercedes,58,+79.382s,1,AUSTRALIA
+189,11,Zhou Guanyu,Alfa Romeo Ferrari,58,+81.695s,0,AUSTRALIA
+188,12,Lance Stroll,Aston Martin Aramco Mercedes,58,+88.598s,0,AUSTRALIA
+187,13,Mick Schumacher,Haas Ferrari,57,+1 lap,0,AUSTRALIA
+186,14,Kevin Magnussen,Haas Ferrari,57,+1 lap,0,AUSTRALIA
+185,15,Yuki Tsunoda,AlphaTauri RBPT,57,+1 lap,0,AUSTRALIA
+184,16,Nicholas Latifi,Williams Mercedes,57,+1 lap,0,AUSTRALIA
+183,17,Fernando Alonso,Alpine Renault,57,+1 lap,0,AUSTRALIA
+182,NC,Max Verstappen,Red Bull Racing RBPT,38,DNF,0,AUSTRALIA
+181,NC,Sebastian Vettel,Aston Martin Aramco Mercedes,22,DNF,0,AUSTRALIA
+180,NC,Carlos Sainz,Ferrari,1,DNF,0,AUSTRALIA
+179,1,Max Verstappen,RED BULL RACING RBPT,63,32:08.0,26,ITALY
+178,2,Sergio Perez,RED BULL RACING RBPT,63,+16.527s,18,ITALY
+177,3,Lando Norris,MCLAREN MERCEDES,63,+34.834s,15,ITALY
+176,4,George Russell,MERCEDES,63,+42.506s,12,ITALY
+175,5,Valtteri Bottas,ALFA ROMEO FERRARI,63,+43.181s,10,ITALY
+174,6,Charles Leclerc,FERRARI,63,+56.072s,8,ITALY
+173,7,Yuki Tsunoda,ALPHATAURI RBPT,63,+61.110s,6,ITALY
+172,8,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,63,+70.892s,4,ITALY
+171,9,Kevin Magnussen,HAAS FERRARI,63,+75.260s,2,ITALY
+170,10,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,62,+1 lap,1,ITALY
+169,11,Alexander Albon,WILLIAMS MERCEDES,62,+1 lap,0,ITALY
+168,12,Pierre Gasly,ALPHATAURI RBPT,62,+1 lap,0,ITALY
+167,13,Lewis Hamilton,MERCEDES,62,+1 lap,0,ITALY
+166,14,Esteban Ocon,ALPINE RENAULT,62,+1 lap,0,ITALY
+165,15,Zhou Guanyu,ALFA ROMEO FERRARI,62,+1 lap,0,ITALY
+164,16,Nicholas Latifi,WILLIAMS MERCEDES,62,+1 lap,0,ITALY
+163,17,Mick Schumacher,HAAS FERRARI,62,+1 lap,0,ITALY
+162,18,Daniel Ricciardo,MCLAREN MERCEDES,62,+1 lap,0,ITALY
+161,NC,Fernando Alonso,ALPINE RENAULT,6,DNF,0,ITALY
+160,NC,Carlos Sainz,FERRARI,0,DNF,0,ITALY
+159,1,Max Verstappen,RED BULL RACING RBPT,57,34:24.3,26,MIAMI
+158,2,Charles Leclerc,FERRARI,57,+3.786s,18,MIAMI
+157,3,Carlos Sainz,FERRARI,57,+8.229s,15,MIAMI
+156,4,Sergio Perez,RED BULL RACING RBPT,57,+10.638s,12,MIAMI
+155,5,George Russell,MERCEDES,57,+18.582s,10,MIAMI
+154,6,Lewis Hamilton,MERCEDES,57,+21.368s,8,MIAMI
+153,7,Valtteri Bottas,ALFA ROMEO FERRARI,57,+25.073s,6,MIAMI
+152,8,Esteban Ocon,ALPINE RENAULT,57,+28.386s,4,MIAMI
+151,9,Alexander Albon,WILLIAMS MERCEDES,57,+32.365s,2,MIAMI
+150,10,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,57,+37.026s,1,MIAMI
+149,11,Fernando Alonso,ALPINE RENAULT,57,+37.128s,0,MIAMI
+148,12,Yuki Tsunoda,ALPHATAURI RBPT,57,+40.146s,0,MIAMI
+147,13,Daniel Ricciardo,MCLAREN MERCEDES,57,+40.902s,0,MIAMI
+146,14,Nicholas Latifi,WILLIAMS MERCEDES,57,+49.936s,0,MIAMI
+145,15,Mick Schumacher,HAAS FERRARI,57,+73.305s,0,MIAMI
+144,16,Kevin Magnussen,HAAS FERRARI,56,DNF,0,MIAMI
+143,17,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,54,DNF,0,MIAMI
+142,NC,Pierre Gasly,ALPHATAURI RBPT,45,DNF,0,MIAMI
+141,NC,Lando Norris,MCLAREN MERCEDES,39,DNF,0,MIAMI
+140,NC,Zhou Guanyu,ALFA ROMEO FERRARI,6,DNF,0,MIAMI
+139,1,Max Verstappen,RED BULL RACING RBPT,66,37:20.5,25,SPAIN
+138,2,Sergio Perez,RED BULL RACING RBPT,66,+13.072s,19,SPAIN
+137,3,George Russell,MERCEDES,66,+32.927s,15,SPAIN
+136,4,Carlos Sainz,FERRARI,66,+45.208s,12,SPAIN
+135,5,Lewis Hamilton,MERCEDES,66,+54.534s,10,SPAIN
+134,6,Valtteri Bottas,ALFA ROMEO FERRARI,66,+59.976s,8,SPAIN
+133,7,Esteban Ocon,ALPINE RENAULT,66,+75.397s,6,SPAIN
+132,8,Lando Norris,MCLAREN MERCEDES,66,+83.235s,4,SPAIN
+131,9,Fernando Alonso,ALPINE RENAULT,65,+1 lap,2,SPAIN
+130,10,Yuki Tsunoda,ALPHATAURI RBPT,65,+1 lap,1,SPAIN
+129,11,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,65,+1 lap,0,SPAIN
+128,12,Daniel Ricciardo,MCLAREN MERCEDES,65,+1 lap,0,SPAIN
+127,13,Pierre Gasly,ALPHATAURI RBPT,65,+1 lap,0,SPAIN
+126,14,Mick Schumacher,HAAS FERRARI,65,+1 lap,0,SPAIN
+125,15,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,65,+1 lap,0,SPAIN
+124,16,Nicholas Latifi,WILLIAMS MERCEDES,64,+2 laps,0,SPAIN
+123,17,Kevin Magnussen,HAAS FERRARI,64,+2 laps,0,SPAIN
+122,18,Alexander Albon,WILLIAMS MERCEDES,64,+2 laps,0,SPAIN
+121,NC,Zhou Guanyu,ALFA ROMEO FERRARI,28,DNF,0,SPAIN
+120,NC,Charles Leclerc,FERRARI,27,DNF,0,SPAIN
+119,1,Sergio Perez,RED BULL RACING RBPT,64,56:30.3,25,MONACO
+118,2,Carlos Sainz,FERRARI,64,+1.154s,18,MONACO
+117,3,Max Verstappen,RED BULL RACING RBPT,64,+1.491s,15,MONACO
+116,4,Charles Leclerc,FERRARI,64,+2.922s,12,MONACO
+115,5,George Russell,MERCEDES,64,+11.968s,10,MONACO
+114,6,Lando Norris,MCLAREN MERCEDES,64,+12.231s,9,MONACO
+113,7,Fernando Alonso,ALPINE RENAULT,64,+46.358s,6,MONACO
+112,8,Lewis Hamilton,MERCEDES,64,+50.388s,4,MONACO
+111,9,Valtteri Bottas,ALFA ROMEO FERRARI,64,+52.525s,2,MONACO
+110,10,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,64,+53.536s,1,MONACO
+109,11,Pierre Gasly,ALPHATAURI RBPT,64,+54.289s,0,MONACO
+108,12,Esteban Ocon,ALPINE RENAULT,64,+55.644s,0,MONACO
+107,13,Daniel Ricciardo,MCLAREN MERCEDES,64,+57.635s,0,MONACO
+106,14,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,64,+60.802s,0,MONACO
+105,15,Nicholas Latifi,WILLIAMS MERCEDES,63,+1 lap,0,MONACO
+104,16,Zhou Guanyu,ALFA ROMEO FERRARI,63,+1 lap,0,MONACO
+103,17,Yuki Tsunoda,ALPHATAURI RBPT,63,+1 lap,0,MONACO
+102,NC,Alexander Albon,WILLIAMS MERCEDES,48,DNF,0,MONACO
+101,NC,Mick Schumacher,HAAS FERRARI,24,DNF,0,MONACO
+100,NC,Kevin Magnussen,HAAS FERRARI,19,DNF,0,MONACO
+99,1,Max Verstappen,Red Bull Racing RBPT,51,34:05.9,25,AZERBAIJAN 
+98,2,Sergio Perez,Red Bull Racing RBPT,51,+20.823s,19,AZERBAIJAN 
+97,3,George Russell,Mercedes,51,+45.995s,15,AZERBAIJAN 
+96,4,Lewis Hamilton,Mercedes,51,+71.679s,12,AZERBAIJAN 
+95,5,Pierre Gasly,AlphaTauri RBPT,51,+77.299s,10,AZERBAIJAN 
+94,6,Sebastian Vettel,Aston Martin Aramco Mercedes,51,+84.099s,8,AZERBAIJAN 
+93,7,Fernando Alonso,Alpine Renault,51,+88.596s,6,AZERBAIJAN 
+92,8,Daniel Ricciardo,McLaren Mercedes,51,+92.207s,4,AZERBAIJAN 
+91,9,Lando Norris,McLaren Mercedes,51,+92.556s,2,AZERBAIJAN 
+90,10,Esteban Ocon,Alpine Renault,51,+108.184s,1,AZERBAIJAN 
+89,11,Valtteri Bottas,Alfa Romeo Ferrari,50,+1 lap,0,AZERBAIJAN 
+88,12,Alexander Albon,Williams Mercedes,50,+1 lap,0,AZERBAIJAN 
+87,13,Yuki Tsunoda,AlphaTauri RBPT,50,+1 lap,0,AZERBAIJAN 
+86,14,Mick Schumacher,Haas Ferrari,50,+1 lap,0,AZERBAIJAN 
+85,15,Nicholas Latifi,Williams Mercedes,50,+1 lap,0,AZERBAIJAN 
+84,16,Lance Stroll,Aston Martin Aramco Mercedes,46,DNF,0,AZERBAIJAN 
+83,NC,Kevin Magnussen,Haas Ferrari,31,DNF,0,AZERBAIJAN 
+82,NC,Zhou Guanyu,Alfa Romeo Ferrari,23,DNF,0,AZERBAIJAN 
+81,NC,Charles Leclerc,Ferrari,21,DNF,0,AZERBAIJAN 
+80,NC,Carlos Sainz,Ferrari,8,DNF,0,AZERBAIJAN 
+79,1,Max Verstappen,Red Bull Racing RBPT,70,36:21.8,25,CANADA 
+78,2,Carlos Sainz,Ferrari,70,+0.993s,19,CANADA 
+77,3,Lewis Hamilton,Mercedes,70,+7.006s,15,CANADA 
+76,4,George Russell,Mercedes,70,+12.313s,12,CANADA 
+75,5,Charles Leclerc,Ferrari,70,+15.168s,10,CANADA 
+74,6,Esteban Ocon,Alpine Renault,70,+23.890s,8,CANADA 
+73,7,Valtteri Bottas,Alfa Romeo Ferrari,70,+25.247s,6,CANADA 
+72,8,Zhou Guanyu,Alfa Romeo Ferrari,70,+26.952s,4,CANADA 
+71,9,Fernando Alonso,Alpine Renault,70,+29.945s,2,CANADA 
+70,10,Lance Stroll,Aston Martin Aramco Mercedes,70,+38.222s,1,CANADA 
+69,11,Daniel Ricciardo,McLaren Mercedes,70,+43.047s,0,CANADA 
+68,12,Sebastian Vettel,Aston Martin Aramco Mercedes,70,+44.245s,0,CANADA 
+67,13,Alexander Albon,Williams Mercedes,70,+44.893s,0,CANADA 
+66,14,Pierre Gasly,AlphaTauri RBPT,70,+45.183s,0,CANADA 
+65,15,Lando Norris,McLaren Mercedes,70,+52.145s,0,CANADA 
+64,16,Nicholas Latifi,Williams Mercedes,70,+59.978s,0,CANADA 
+63,17,Kevin Magnussen,Haas Ferrari,70,+68.180s,0,CANADA 
+62,NC,Yuki Tsunoda,AlphaTauri RBPT,47,DNF,0,CANADA 
+61,NC,Mick Schumacher,Haas Ferrari,18,DNF,0,CANADA 
+60,NC,Sergio Perez,Red Bull Racing RBPT,7,DNF,0,CANADA 
+59,1,Carlos Sainz,Ferrari,52,17:50.3,25,GREAT BRITAIN 
+58,2,Sergio Perez,Red Bull Racing RBPT,52,+3.779s,18,GREAT BRITAIN 
+57,3,Lewis Hamilton,Mercedes,52,+6.225s,16,GREAT BRITAIN 
+56,4,Charles Leclerc,Ferrari,52,+8.546s,12,GREAT BRITAIN 
+55,5,Fernando Alonso,Alpine Renault,52,+9.571s,10,GREAT BRITAIN 
+54,6,Lando Norris,McLaren Mercedes,52,+11.943s,8,GREAT BRITAIN 
+53,7,Max Verstappen,Red Bull Racing RBPT,52,+18.777s,6,GREAT BRITAIN 
+52,8,Mick Schumacher,Haas Ferrari,52,+18.995s,4,GREAT BRITAIN 
+51,9,Sebastian Vettel,Aston Martin Aramco Mercedes,52,+22.356s,2,GREAT BRITAIN 
+50,10,Kevin Magnussen,Haas Ferrari,52,+24.590s,1,GREAT BRITAIN 
+49,11,Lance Stroll,Aston Martin Aramco Mercedes,52,+26.147s,0,GREAT BRITAIN 
+48,12,Nicholas Latifi,Williams Mercedes,52,+32.511s,0,GREAT BRITAIN 
+47,13,Daniel Ricciardo,McLaren Mercedes,52,+32.817s,0,GREAT BRITAIN 
+46,14,Yuki Tsunoda,AlphaTauri RBPT,52,+40.910s,0,GREAT BRITAIN 
+45,NC,Esteban Ocon,Alpine Renault,37,DNF,0,GREAT BRITAIN 
+44,NC,Pierre Gasly,AlphaTauri RBPT,26,DNF,0,GREAT BRITAIN 
+43,NC,Valtteri Bottas,Alfa Romeo Ferrari,20,DNF,0,GREAT BRITAIN 
+42,NC,George Russell,Mercedes,0,DNF,0,GREAT BRITAIN 
+41,NC,Zhou Guanyu,Alfa Romeo Ferrari,0,DNF,0,GREAT BRITAIN 
+40,NC,Alexander Albon,Williams Mercedes,0,DNF,0,GREAT BRITAIN 
+39,1,Charles Leclerc,Ferrari,71,24:24.3,25,AUSTRIA
+38,2,Max Verstappen,Red Bull Racing RBPT,71,+1.532s,19,AUSTRIA
+37,3,Lewis Hamilton,Mercedes,71,+41.217s,15,AUSTRIA
+36,4,George Russell,Mercedes,71,+58.972s,12,AUSTRIA
+35,5,Esteban Ocon,Alpine Renault,71,+68.436s,10,AUSTRIA
+34,6,Mick Schumacher,Haas Ferrari,70,+1 lap,8,AUSTRIA
+33,7,Lando Norris,McLaren Mercedes,70,+1 lap,6,AUSTRIA
+32,8,Kevin Magnussen,Haas Ferrari,70,+1 lap,4,AUSTRIA
+31,9,Daniel Ricciardo,McLaren Mercedes,70,+1 lap,2,AUSTRIA
+30,10,Fernando Alonso,Alpine Renault,70,+1 lap,1,AUSTRIA
+29,11,Valtteri Bottas,Alfa Romeo Ferrari,70,+1 lap,0,AUSTRIA
+28,12,Alexander Albon,Williams Mercedes,70,+1 lap,0,AUSTRIA
+27,13,Lance Stroll,Aston Martin Aramco Mercedes,70,+1 lap,0,AUSTRIA
+26,14,Zhou Guanyu,Alfa Romeo Ferrari,70,+1 lap,0,AUSTRIA
+25,15,Pierre Gasly,AlphaTauri RBPT,70,+1 lap,0,AUSTRIA
+24,16,Yuki Tsunoda,AlphaTauri RBPT,70,+1 lap,0,AUSTRIA
+23,17,Sebastian Vettel,Aston Martin Aramco Mercedes,70,+1 lap,0,AUSTRIA
+22,NC,Carlos Sainz,Ferrari,56,DNF,0,AUSTRIA
+21,NC,Nicholas Latifi,Williams Mercedes,48,DNF,0,AUSTRIA
+20,NC,Sergio Perez,Red Bull Racing RBPT,24,DNF,0,AUSTRIA
+19,1,Max Verstappen,Red Bull Racing RBPT,53,30:02.1,25,FRANCE
+18,2,Lewis Hamilton,Mercedes,53,+10.587s,18,FRANCE
+17,3,George Russell,Mercedes,53,+16.495s,15,FRANCE
+16,4,Sergio Perez,Red Bull Racing RBPT,53,+17.310s,12,FRANCE
+15,5,Carlos Sainz,Ferrari,53,+28.872s,11,FRANCE
+14,6,Fernando Alonso,Alpine Renault,53,+42.879s,8,FRANCE
+13,7,Lando Norris,McLaren Mercedes,53,+52.026s,6,FRANCE
+12,8,Esteban Ocon,Alpine Renault,53,+56.959s,4,FRANCE
+11,9,Daniel Ricciardo,McLaren Mercedes,53,+60.372s,2,FRANCE
+10,10,Lance Stroll,Aston Martin Aramco Mercedes,53,+62.549s,1,FRANCE
+9,11,Sebastian Vettel,Aston Martin Aramco Mercedes,53,+64.494s,0,FRANCE
+8,12,Pierre Gasly,AlphaTauri RBPT,53,+65.448s,0,FRANCE
+7,13,Alexander Albon,Williams Mercedes,53,+68.565s,0,FRANCE
+6,14,Valtteri Bottas,Alfa Romeo Ferrari,53,+76.666s,0,FRANCE
+5,15,Mick Schumacher,Haas Ferrari,53,+80.394s,0,FRANCE
+4,16,Zhou Guanyu,Alfa Romeo Ferrari,47,+6 laps,0,FRANCE
+3,NC,Nicholas Latifi,Williams Mercedes,40,DNF,0,FRANCE
+2,NC,Kevin Magnussen,Haas Ferrari,37,DNF,0,FRANCE
+1,NC,Charles Leclerc,Ferrari,17,DNF,0,FRANCE
+0,NC,Yuki Tsunoda,AlphaTauri RBPT,17,DNF,0,FRANCE
