@@ -22,6 +22,14 @@ poetry shell
 
 This will create the virtual environment to run the cells in the Jupyter notebook. Choose the newly created virtual environment as the kernel in the Jupyter notebook.
 
+Can't see the environment listed?
+
+Try running the following:
+
+```
+poetry config virtualenvs.in-project true
+```
+
 __NOTE: This will require Python 3.8 to be available on your machine!__
 
 
