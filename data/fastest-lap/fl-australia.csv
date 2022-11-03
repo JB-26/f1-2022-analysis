@@ -1,20 +1,20 @@
-POS,NO,DRIVER,CAR,LAP,TIME OF DAY,TIME,AVG SPEED
-1,16,Charles Leclerc,FERRARI,58,16:30:59,01:20.3,236.74
-2,14,Fernando Alonso,ALPINE RENAULT,57,16:31:30,01:20.8,235.024
-3,11,Sergio Perez,RED BULL RACING RBPT,58,16:31:20,01:21.1,234.305
-4,63,George Russell,MERCEDES,53,16:24:35,01:21.5,233.152
-5,77,Valtteri Bottas,ALFA ROMEO FERRARI,54,16:26:39,01:21.7,232.707
-6,1,Max Verstappen,RED BULL RACING RBPT,37,16:01:55,01:21.7,232.633
-7,44,Lewis Hamilton,MERCEDES,51,16:21:52,01:21.9,232.039
-8,4,Lando Norris,MCLAREN MERCEDES,55,16:27:39,01:22.2,231.018
-9,3,Daniel Ricciardo,MCLAREN MERCEDES,54,16:26:22,01:22.5,230.449
-10,31,Esteban Ocon,ALPINE RENAULT,58,16:32:01,01:22.5,230.399
-11,24,Zhou Guanyu,ALFA ROMEO FERRARI,55,16:28:09,01:22.5,230.198
-12,23,Alexander Albon,WILLIAMS MERCEDES,54,16:26:27,01:22.6,230.064
-13,10,Pierre Gasly,ALPHATAURI RBPT,52,16:23:54,01:22.7,229.669
-14,47,Mick Schumacher,HAAS FERRARI,55,16:28:14,01:23.0,228.908
-15,20,Kevin Magnussen,HAAS FERRARI,44,16:12:51,01:23.1,228.729
-16,22,Yuki Tsunoda,ALPHATAURI RBPT,56,16:29:42,01:23.3,227.985
-17,18,Lance Stroll,ASTON MARTIN ARAMCO MERCEDES,48,16:18:20,01:23.6,227.304
-18,6,Nicholas Latifi,WILLIAMS MERCEDES,49,16:19:55,01:23.9,226.518
-19,5,Sebastian Vettel,ASTON MARTIN ARAMCO MERCEDES,17,15:30:47,01:25.2,223.042
+Pos,No,Driver,Car,Lap,Time of day,Time,Avg Speed
+1,16,Charles Leclerc,Ferrari,58,16:30:59,01:20.3,236.74
+2,14,Fernando Alonso,Alpine Renault,57,16:31:30,01:20.8,235.024
+3,11,Sergio Perez,Red Bull Racing RBPT,58,16:31:20,01:21.1,234.305
+4,63,George Russell,Mercedes,53,16:24:35,01:21.5,233.152
+5,77,Valtteri Bottas,Alfa Romeo Ferrari,54,16:26:39,01:21.7,232.707
+6,1,Max Verstappen,Red Bull Racing RBPT,37,16:01:55,01:21.7,232.633
+7,44,Lewis Hamilton,Mercedes,51,16:21:52,01:21.9,232.039
+8,4,Lando Norris,McLaren Mercedes,55,16:27:39,01:22.2,231.018
+9,3,Daniel Ricciardo,McLaren Mercedes,54,16:26:22,01:22.5,230.449
+10,31,Esteban Ocon,Alpine Renault,58,16:32:01,01:22.5,230.399
+11,24,Zhou Guanyu,Alfa Romeo Ferrari,55,16:28:09,01:22.5,230.198
+12,23,Alexander Albon,Williams Mercedes,54,16:26:27,01:22.6,230.064
+13,10,Pierre Gasly,AlphaTauri RBPT,52,16:23:54,01:22.7,229.669
+14,47,Mick Schumacher,Haas Ferrari,55,16:28:14,01:23.0,228.908
+15,20,Kevin Magnussen,Haas Ferrari,44,16:12:51,01:23.1,228.729
+16,22,Yuki Tsunoda,AlphaTauri RBPT,56,16:29:42,01:23.3,227.985
+17,18,Lance Stroll,Aston Martin Aramco Mercedes,48,16:18:20,01:23.6,227.304
+18,6,Nicholas Latifi,Williams Mercedes,49,16:19:55,01:23.9,226.518
+19,5,Sebastian Vettel,Aston Martin Aramco Mercedes,17,15:30:47,01:25.2,223.042
