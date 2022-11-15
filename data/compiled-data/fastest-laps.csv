@@ -1,389 +1,408 @@
 ,NO,DRIVER,CAR,RACE,FL,AVG_SPEED
-387,16,Charles Leclerc,Ferrari,BAHRAIN,94.6,206.018
-386,1,Max Verstappen,Red Bull Racing RBPT,BAHRAIN,95.4,204.14
-385,55,Carlos Sainz,Ferrari,BAHRAIN,95.7,203.501
-384,11,Sergio Perez,Red Bull Racing RBPT,BAHRAIN,96.1,202.762
-383,44,Lewis Hamilton,Mercedes,BAHRAIN,96.2,202.469
-382,63,George Russell,Mercedes,BAHRAIN,96.3,202.313
-381,77,Valtteri Bottas,Alfa Romeo Ferrari,BAHRAIN,96.6,201.691
-380,20,Kevin Magnussen,Haas Ferrari,BAHRAIN,96.6,201.641
-379,24,Zhou Guanyu,Alfa Romeo Ferrari,BAHRAIN,96.7,201.512
-378,14,Fernando Alonso,Alpine Renault,BAHRAIN,96.7,201.412
-377,47,Mick Schumacher,Haas Ferrari,BAHRAIN,97.0,200.948
-376,4,Lando Norris,McLaren Mercedes,BAHRAIN,97.0,200.882
-375,22,Yuki Tsunoda,AlphaTauri RBPT,BAHRAIN,97.1,200.642
-374,31,Esteban Ocon,Alpine Renault,BAHRAIN,97.1,200.63
-373,18,Lance Stroll,Aston Martin Aramco Mercedes,BAHRAIN,97.1,200.555
-372,3,Daniel Ricciardo,McLaren Mercedes,BAHRAIN,97.3,200.318
-371,10,Pierre Gasly,AlphaTauri RBPT,BAHRAIN,97.3,200.189
-370,23,Alexander Albon,Williams Mercedes,BAHRAIN,97.4,200.125
-369,27,Nico Hulkenberg,Aston Martin Aramco Mercedes,BAHRAIN,98.2,198.401
-368,6,Nicholas Latifi,Williams Mercedes,BAHRAIN,98.3,198.3
-367,16,Charles Leclerc,Ferrari,SAUDI ARABIA,91.6,242.556
-366,1,Max Verstappen,Red Bull Racing RBPT,SAUDI ARABIA,91.8,242.191
-365,55,Carlos Sainz,Ferrari,SAUDI ARABIA,91.9,241.841
-364,11,Sergio Perez,Red Bull Racing RBPT,SAUDI ARABIA,92.0,241.481
-363,4,Lando Norris,McLaren Mercedes,SAUDI ARABIA,92.8,239.629
-362,20,Kevin Magnussen,Haas Ferrari,SAUDI ARABIA,92.8,239.562
-361,63,George Russell,Mercedes,SAUDI ARABIA,92.8,239.454
-360,44,Lewis Hamilton,Mercedes,SAUDI ARABIA,93.0,239.001
-359,31,Esteban Ocon,Alpine Renault,SAUDI ARABIA,93.1,238.729
-358,10,Pierre Gasly,AlphaTauri RBPT,SAUDI ARABIA,93.5,237.796
-357,27,Nico Hulkenberg,Aston Martin Aramco Mercedes,SAUDI ARABIA,93.7,237.332
-356,14,Fernando Alonso,Alpine Renault,SAUDI ARABIA,93.8,236.876
-355,24,Zhou Guanyu,Alfa Romeo Ferrari,SAUDI ARABIA,93.9,236.642
-354,77,Valtteri Bottas,Alfa Romeo Ferrari,SAUDI ARABIA,94.0,236.503
-353,23,Alexander Albon,Williams Mercedes,SAUDI ARABIA,94.4,235.528
-352,18,Lance Stroll,Aston Martin Aramco Mercedes,SAUDI ARABIA,94.4,235.334
-351,3,Daniel Ricciardo,McLaren Mercedes,SAUDI ARABIA,94.5,235.232
-350,6,Nicholas Latifi,Williams Mercedes,SAUDI ARABIA,97.5,227.892
-349,16,Charles Leclerc,Ferrari,AUSTRALIA,80.3,236.74
-348,14,Fernando Alonso,Alpine Renault,AUSTRALIA,80.8,235.024
-347,11,Sergio Perez,Red Bull Racing RBPT,AUSTRALIA,81.1,234.305
-346,63,George Russell,Mercedes,AUSTRALIA,81.5,233.152
-345,77,Valtteri Bottas,Alfa Romeo Ferrari,AUSTRALIA,81.7,232.707
-344,1,Max Verstappen,Red Bull Racing RBPT,AUSTRALIA,81.7,232.633
-343,44,Lewis Hamilton,Mercedes,AUSTRALIA,81.9,232.039
-342,4,Lando Norris,McLaren Mercedes,AUSTRALIA,82.2,231.018
-341,3,Daniel Ricciardo,McLaren Mercedes,AUSTRALIA,82.5,230.449
-340,31,Esteban Ocon,Alpine Renault,AUSTRALIA,82.5,230.399
-339,24,Zhou Guanyu,Alfa Romeo Ferrari,AUSTRALIA,82.5,230.198
-338,23,Alexander Albon,Williams Mercedes,AUSTRALIA,82.6,230.064
-337,10,Pierre Gasly,AlphaTauri RBPT,AUSTRALIA,82.7,229.669
-336,47,Mick Schumacher,Haas Ferrari,AUSTRALIA,83.0,228.908
-335,20,Kevin Magnussen,Haas Ferrari,AUSTRALIA,83.1,228.729
-334,22,Yuki Tsunoda,AlphaTauri RBPT,AUSTRALIA,83.3,227.985
-333,18,Lance Stroll,Aston Martin Aramco Mercedes,AUSTRALIA,83.6,227.304
-332,6,Nicholas Latifi,Williams Mercedes,AUSTRALIA,83.9,226.518
-331,5,Sebastian Vettel,Aston Martin Aramco Mercedes,AUSTRALIA,85.2,223.042
-330,1,Max Verstappen,Red Bull Racing RBPT,ITALY,78.4,225.281
-329,16,Charles Leclerc,Ferrari,ITALY,78.6,224.914
-328,11,Sergio Perez,Red Bull Racing RBPT,ITALY,78.9,223.845
-327,47,Mick Schumacher,Haas Ferrari,ITALY,79.0,223.704
-326,22,Yuki Tsunoda,AlphaTauri RBPT,ITALY,80.5,219.412
-325,77,Valtteri Bottas,Alfa Romeo Ferrari,ITALY,80.8,218.831
-324,4,Lando Norris,McLaren Mercedes,ITALY,80.9,218.439
-323,63,George Russell,Mercedes,ITALY,81.0,218.28
-322,5,Sebastian Vettel,Aston Martin Aramco Mercedes,ITALY,81.2,217.61
-321,20,Kevin Magnussen,Haas Ferrari,ITALY,81.2,217.538
-320,24,Zhou Guanyu,Alfa Romeo Ferrari,ITALY,81.3,217.41
-319,6,Nicholas Latifi,Williams Mercedes,ITALY,81.3,217.271
-318,44,Lewis Hamilton,Mercedes,ITALY,81.4,217.054
-317,3,Daniel Ricciardo,McLaren Mercedes,ITALY,81.6,216.634
-316,10,Pierre Gasly,AlphaTauri RBPT,ITALY,81.7,216.274
-315,18,Lance Stroll,Aston Martin Aramco Mercedes,ITALY,81.8,216.176
-314,23,Alexander Albon,Williams Mercedes,ITALY,81.8,216.157
-313,31,Esteban Ocon,Alpine Renault,ITALY,81.9,215.814
-312,14,Fernando Alonso,Alpine Renault,ITALY,99.7,177.282
-311,1,Max Verstappen,Red Bull Racing RBPT,MIAMI,91.4,213.255
-310,16,Charles Leclerc,Ferrari,MIAMI,91.5,212.959
-309,55,Carlos Sainz,Ferrari,MIAMI,91.8,212.258
-308,11,Sergio Perez,Red Bull Racing RBPT,MIAMI,91.8,212.191
-307,63,George Russell,Mercedes,MIAMI,92.2,211.325
-306,47,Mick Schumacher,Haas Ferrari,MIAMI,92.5,210.565
-305,44,Lewis Hamilton,Mercedes,MIAMI,92.9,209.629
-304,22,Yuki Tsunoda,AlphaTauri RBPT,MIAMI,93.0,209.417
-303,31,Esteban Ocon,Alpine Renault,MIAMI,93.2,209.13
-302,77,Valtteri Bottas,Alfa Romeo Ferrari,MIAMI,93.2,209.083
-301,3,Daniel Ricciardo,McLaren Mercedes,MIAMI,93.3,208.901
-300,18,Lance Stroll,Aston Martin Aramco Mercedes,MIAMI,93.3,208.796
-299,14,Fernando Alonso,Alpine Renault,MIAMI,93.3,208.753
-298,4,Lando Norris,McLaren Mercedes,MIAMI,93.4,208.575
-297,23,Alexander Albon,Williams Mercedes,MIAMI,93.4,208.494
-296,5,Sebastian Vettel,Aston Martin Aramco Mercedes,MIAMI,93.5,208.423
-295,20,Kevin Magnussen,Haas Ferrari,MIAMI,93.5,208.351
-294,6,Nicholas Latifi,Williams Mercedes,MIAMI,94.2,206.896
-293,10,Pierre Gasly,AlphaTauri RBPT,MIAMI,94.5,206.199
-292,24,Zhou Guanyu,Alfa Romeo Ferrari,MIAMI,95.7,203.52
-291,11,Sergio Perez,Red Bull Racing RBPT,SPAIN,84.1,200.099
-290,44,Lewis Hamilton,Mercedes,SPAIN,84.3,199.755
-289,63,George Russell,Mercedes,SPAIN,84.6,198.851
-288,1,Max Verstappen,Red Bull Racing RBPT,SPAIN,85.5,196.943
-287,4,Lando Norris,McLaren Mercedes,SPAIN,85.6,196.568
-286,31,Esteban Ocon,Alpine Renault,SPAIN,85.9,195.845
-285,55,Carlos Sainz,Ferrari,SPAIN,86.0,195.731
-284,77,Valtteri Bottas,Alfa Romeo Ferrari,SPAIN,86.4,194.802
-283,14,Fernando Alonso,Alpine Renault,SPAIN,86.6,194.344
-282,22,Yuki Tsunoda,AlphaTauri RBPT,SPAIN,86.8,193.831
-281,18,Lance Stroll,Aston Martin Aramco Mercedes,SPAIN,86.9,193.724
-280,10,Pierre Gasly,AlphaTauri RBPT,SPAIN,87.0,193.477
-279,16,Charles Leclerc,Ferrari,SPAIN,87.0,193.381
-278,6,Nicholas Latifi,Williams Mercedes,SPAIN,87.2,192.902
-277,3,Daniel Ricciardo,McLaren Mercedes,SPAIN,87.3,192.816
-276,47,Mick Schumacher,Haas Ferrari,SPAIN,87.4,192.459
-275,20,Kevin Magnussen,Haas Ferrari,SPAIN,87.5,192.261
-274,5,Sebastian Vettel,Aston Martin Aramco Mercedes,SPAIN,87.6,192.059
-273,23,Alexander Albon,Williams Mercedes,SPAIN,88.3,190.641
-272,24,Zhou Guanyu,Alfa Romeo Ferrari,SPAIN,88.4,190.352
-271,4,Lando Norris,McLaren Mercedes,MONACO,74.7,160.834
-270,22,Yuki Tsunoda,AlphaTauri RBPT,MONACO,75.3,159.465
-269,14,Fernando Alonso,Alpine Renault,MONACO,75.9,158.314
-268,11,Sergio Perez,Red Bull Racing RBPT,MONACO,76.0,158.01
-267,1,Max Verstappen,Red Bull Racing RBPT,MONACO,76.1,157.96
-266,16,Charles Leclerc,Ferrari,MONACO,76.2,157.552
-265,55,Carlos Sainz,Ferrari,MONACO,76.4,157.197
-264,63,George Russell,Mercedes,MONACO,76.8,156.36
-263,44,Lewis Hamilton,Mercedes,MONACO,77.2,155.605
-262,10,Pierre Gasly,AlphaTauri RBPT,MONACO,77.3,155.321
-261,3,Daniel Ricciardo,McLaren Mercedes,MONACO,77.5,154.945
-260,5,Sebastian Vettel,Aston Martin Aramco Mercedes,MONACO,77.6,154.893
-259,31,Esteban Ocon,Alpine Renault,MONACO,77.6,154.867
-258,77,Valtteri Bottas,Alfa Romeo Ferrari,MONACO,77.6,154.809
-257,18,Lance Stroll,Aston Martin Aramco Mercedes,MONACO,77.7,154.665
-256,23,Alexander Albon,Williams Mercedes,MONACO,78.0,153.969
-255,24,Zhou Guanyu,Alfa Romeo Ferrari,MONACO,78.2,153.621
-254,6,Nicholas Latifi,Williams Mercedes,MONACO,78.6,152.88
-253,47,Mick Schumacher,Haas Ferrari,MONACO,84.8,141.701
-252,20,Kevin Magnussen,Haas Ferrari,MONACO,93.8,128.135
-251,11,Sergio Perez,Red Bull Racing RBPT,AZERBAIJAN,106.0,203.787
-250,1,Max Verstappen,Red Bull Racing RBPT,AZERBAIJAN,106.1,203.779
-249,44,Lewis Hamilton,Mercedes,AZERBAIJAN,107.0,201.887
-248,63,George Russell,Mercedes,AZERBAIJAN,107.2,201.636
-247,22,Yuki Tsunoda,AlphaTauri RBPT,AZERBAIJAN,107.5,200.987
-246,16,Charles Leclerc,Ferrari,AZERBAIJAN,107.5,200.972
-245,23,Alexander Albon,Williams Mercedes,AZERBAIJAN,108.0,200.163
-244,14,Fernando Alonso,Alpine Renault,AZERBAIJAN,108.0,200.12
-243,4,Lando Norris,McLaren Mercedes,AZERBAIJAN,108.0,200.105
-242,18,Lance Stroll,Aston Martin Aramco Mercedes,AZERBAIJAN,108.0,200.029
-241,77,Valtteri Bottas,Alfa Romeo Ferrari,AZERBAIJAN,108.2,199.768
-240,5,Sebastian Vettel,Aston Martin Aramco Mercedes,AZERBAIJAN,108.2,199.719
-239,3,Daniel Ricciardo,McLaren Mercedes,AZERBAIJAN,108.3,199.589
-238,31,Esteban Ocon,Alpine Renault,AZERBAIJAN,108.3,199.551
-237,47,Mick Schumacher,Haas Ferrari,AZERBAIJAN,108.4,199.343
-236,10,Pierre Gasly,AlphaTauri RBPT,AZERBAIJAN,108.5,199.143
-235,24,Zhou Guanyu,Alfa Romeo Ferrari,AZERBAIJAN,108.7,198.769
-234,20,Kevin Magnussen,Haas Ferrari,AZERBAIJAN,108.8,198.648
-233,55,Carlos Sainz,Ferrari,AZERBAIJAN,109.0,198.304
-232,6,Nicholas Latifi,Williams Mercedes,AZERBAIJAN,109.6,197.209
-231,55,Carlos Sainz,Ferrari,CANADA,75.7,207.258
-230,1,Max Verstappen,Red Bull Racing RBPT,CANADA,75.8,207.012
-229,16,Charles Leclerc,Ferrari,CANADA,75.9,206.843
-228,44,Lewis Hamilton,Mercedes,CANADA,76.2,206.12
-227,63,George Russell,Mercedes,CANADA,76.4,205.443
-226,24,Zhou Guanyu,Alfa Romeo Ferrari,CANADA,76.6,205.014
-225,77,Valtteri Bottas,Alfa Romeo Ferrari,CANADA,76.9,204.084
-224,14,Fernando Alonso,Alpine Renault,CANADA,77.0,203.864
-223,31,Esteban Ocon,Alpine Renault,CANADA,77.1,203.6
-222,18,Lance Stroll,Aston Martin Aramco Mercedes,CANADA,77.4,202.782
-221,4,Lando Norris,McLaren Mercedes,CANADA,77.5,202.588
-220,10,Pierre Gasly,AlphaTauri RBPT,CANADA,77.8,201.768
-219,3,Daniel Ricciardo,McLaren Mercedes,CANADA,77.9,201.452
-218,23,Alexander Albon,Williams Mercedes,CANADA,78.0,201.403
-217,5,Sebastian Vettel,Aston Martin Aramco Mercedes,CANADA,78.0,201.39
-216,20,Kevin Magnussen,Haas Ferrari,CANADA,78.0,201.158
-215,22,Yuki Tsunoda,AlphaTauri RBPT,CANADA,78.3,200.482
-214,6,Nicholas Latifi,Williams Mercedes,CANADA,78.5,199.893
-213,11,Sergio Perez,Red Bull Racing RBPT,CANADA,78.8,199.122
-212,47,Mick Schumacher,Haas Ferrari,CANADA,79.0,198.812
-211,44,Lewis Hamilton,Mercedes,GREAT BRITAIN,90.5,234.312
-210,55,Carlos Sainz,Ferrari,GREAT BRITAIN,90.8,233.53
-209,11,Sergio Perez,Red Bull Racing RBPT,GREAT BRITAIN,90.9,233.212
-208,16,Charles Leclerc,Ferrari,GREAT BRITAIN,91.3,232.33
-207,14,Fernando Alonso,Alpine Renault,GREAT BRITAIN,91.6,231.501
-206,4,Lando Norris,McLaren Mercedes,GREAT BRITAIN,91.6,231.41
-205,47,Mick Schumacher,Haas Ferrari,GREAT BRITAIN,92.1,230.244
-204,1,Max Verstappen,Red Bull Racing RBPT,GREAT BRITAIN,92.4,229.633
-203,18,Lance Stroll,Aston Martin Aramco Mercedes,GREAT BRITAIN,92.4,229.571
-202,5,Sebastian Vettel,Aston Martin Aramco Mercedes,GREAT BRITAIN,92.5,229.343
-201,3,Daniel Ricciardo,McLaren Mercedes,GREAT BRITAIN,92.6,228.914
-200,20,Kevin Magnussen,Haas Ferrari,GREAT BRITAIN,92.7,228.872
-199,6,Nicholas Latifi,Williams Mercedes,GREAT BRITAIN,93.3,227.339
-198,31,Esteban Ocon,Alpine Renault,GREAT BRITAIN,93.5,226.729
-197,22,Yuki Tsunoda,AlphaTauri RBPT,GREAT BRITAIN,93.8,226.016
-196,10,Pierre Gasly,AlphaTauri RBPT,GREAT BRITAIN,94.6,224.148
-195,77,Valtteri Bottas,Alfa Romeo Ferrari,GREAT BRITAIN,95.1,222.996
-194,1,Max Verstappen,Red Bull Racing RBPT,AUSTRIA,67.3,231.063
-193,16,Charles Leclerc,Ferrari,AUSTRIA,67.6,230.01
-192,14,Fernando Alonso,Alpine Renault,AUSTRIA,68.6,226.739
-191,55,Carlos Sainz,Ferrari,AUSTRIA,68.6,226.438
-190,44,Lewis Hamilton,Mercedes,AUSTRIA,69.0,225.286
-189,63,George Russell,Mercedes,AUSTRIA,69.1,225.042
-188,77,Valtteri Bottas,Alfa Romeo Ferrari,AUSTRIA,69.3,224.421
-187,4,Lando Norris,McLaren Mercedes,AUSTRIA,69.3,224.298
-186,24,Zhou Guanyu,Alfa Romeo Ferrari,AUSTRIA,69.4,224.053
-185,31,Esteban Ocon,Alpine Renault,AUSTRIA,69.6,223.476
-184,47,Mick Schumacher,Haas Ferrari,AUSTRIA,69.6,223.264
-183,23,Alexander Albon,Williams Mercedes,AUSTRIA,69.7,223.123
-182,3,Daniel Ricciardo,McLaren Mercedes,AUSTRIA,69.9,222.309
-181,20,Kevin Magnussen,Haas Ferrari,AUSTRIA,69.9,222.265
-180,5,Sebastian Vettel,Aston Martin Aramco Mercedes,AUSTRIA,70.0,222.065
-179,22,Yuki Tsunoda,AlphaTauri RBPT,AUSTRIA,70.0,221.995
-178,18,Lance Stroll,Aston Martin Aramco Mercedes,AUSTRIA,70.0,221.916
-177,10,Pierre Gasly,AlphaTauri RBPT,AUSTRIA,70.1,221.739
-176,6,Nicholas Latifi,Williams Mercedes,AUSTRIA,70.9,219.28
-175,11,Sergio Perez,Red Bull Racing RBPT,AUSTRIA,71.8,216.371
-174,55,Carlos Sainz,Ferrari,FRANCE,95.8,219.575
-173,1,Max Verstappen,Red Bull Racing RBPT,FRANCE,97.5,215.724
-172,63,George Russell,Mercedes,FRANCE,97.5,215.598
-171,44,Lewis Hamilton,Mercedes,FRANCE,97.7,215.333
-170,11,Sergio Perez,Red Bull Racing RBPT,FRANCE,97.8,215.086
-169,77,Valtteri Bottas,Alfa Romeo Ferrari,FRANCE,98.0,214.685
-168,16,Charles Leclerc,Ferrari,FRANCE,98.1,214.411
-167,14,Fernando Alonso,Alpine Renault,FRANCE,98.2,214.254
-166,31,Esteban Ocon,Alpine Renault,FRANCE,98.7,213.116
-165,10,Pierre Gasly,AlphaTauri RBPT,FRANCE,98.8,212.896
-164,4,Lando Norris,McLaren Mercedes,FRANCE,99.0,212.356
-163,5,Sebastian Vettel,Aston Martin Aramco Mercedes,FRANCE,99.0,212.341
-162,47,Mick Schumacher,Haas Ferrari,FRANCE,99.1,212.29
-161,3,Daniel Ricciardo,McLaren Mercedes,FRANCE,99.1,212.151
-160,18,Lance Stroll,Aston Martin Aramco Mercedes,FRANCE,99.2,212.04
-159,23,Alexander Albon,Williams Mercedes,FRANCE,99.2,212.01
-158,20,Kevin Magnussen,Haas Ferrari,FRANCE,99.3,211.869
-157,24,Zhou Guanyu,Alfa Romeo Ferrari,FRANCE,99.4,211.649
-156,6,Nicholas Latifi,Williams Mercedes,FRANCE,99.6,211.05
-155,22,Yuki Tsunoda,AlphaTauri RBPT,FRANCE,100.2,209.858
-154,44,Lewis Hamilton,Mercedes,HUNGARY,81.3,193.787
-153,16,Charles Leclerc,Ferrari,HUNGARY,81.6,193.227
-152,11,Sergio Perez,Red Bull Racing RBPT,HUNGARY,81.9,192.477
-151,55,Carlos Sainz,Ferrari,HUNGARY,82.0,192.336
-150,24,Zhou Guanyu,Alfa Romeo Ferrari,HUNGARY,82.0,192.268
-149,1,Max Verstappen,Red Bull Racing RBPT,HUNGARY,82.1,192.041
-148,18,Lance Stroll,Aston Martin Aramco Mercedes,HUNGARY,82.4,191.317
-147,6,Nicholas Latifi,Williams Mercedes,HUNGARY,82.4,191.221
-146,63,George Russell,Mercedes,HUNGARY,82.7,190.556
-145,5,Sebastian Vettel,Aston Martin Aramco Mercedes,HUNGARY,82.8,190.423
-144,4,Lando Norris,McLaren Mercedes,HUNGARY,83.0,189.92
-143,23,Alexander Albon,Williams Mercedes,HUNGARY,83.0,189.911
-142,47,Mick Schumacher,Haas Ferrari,HUNGARY,83.1,189.674
-141,10,Pierre Gasly,Alpha Tauri RBPT,HUNGARY,83.1,189.564
-140,20,Kevin Magnussen,Haas Ferrari,HUNGARY,83.5,188.856
-139,22,Yuki Tsunoda,Alpha Tauri RBPT,HUNGARY,83.5,188.795
-138,3,Daniel Ricciardo,McLaren Mercedes,HUNGARY,83.6,188.533
-137,14,Fernando Alonso,Alpine Renault,HUNGARY,83.9,187.804
-136,77,Valtteri Bottas,Alfa Romeo Ferrari,HUNGARY,84.0,187.752
-135,31,Esteban Ocon,Alpine Renault,HUNGARY,84.1,187.424
-134,1,Max Verstappen,Red Bull Racing RBPT,BELGUIM,109.3,230.575
-133,16,Charles Leclerc,Ferrari,BELGUIM,109.9,229.255
-132,11,Sergio Perez,Red Bull Racing RBPT,BELGUIM,110.7,227.64
-131,63,George Russell,Mercedes,BELGUIM,110.7,227.581
-130,4,Lando Norris,McLaren Mercedes,BELGUIM,111.6,225.777
-129,31,Esteban Ocon,Alpine Renault,BELGUIM,111.7,225.698
-128,55,Carlos Sainz,Ferrari,BELGUIM,111.9,225.174
-127,6,Nicholas Latifi,Williams Mercedes,BELGUIM,112.2,224.615
-126,24,Zhou Guanyu,Alfa Romeo Ferrari,BELGUIM,112.3,224.493
-125,22,Yuki Tsunoda,Alpha Tauri RBPT,BELGUIM,112.4,224.255
-124,5,Sebastian Vettel,Aston Martin Aramco Mercedes,BELGUIM,112.5,224.098
-123,47,Mick Schumacher,Haas Ferrari,BELGUIM,112.6,223.837
-122,14,Fernando Alonso,Alpine Renault,BELGUIM,112.8,223.397
-121,18,Lance Stroll,Aston Martin Aramco Mercedes,BELGUIM,112.8,223.373
-120,10,Pierre Gasly,Alpha Tauri RBPT,BELGUIM,113.0,223.132
-119,23,Alexander Albon,Williams Mercedes,BELGUIM,113.0,223.027
-118,3,Daniel Ricciardo,McLaren Mercedes,BELGUIM,113.0,222.978
-117,20,Kevin Magnussen,Haas Ferrari,BELGUIM,113.3,222.482
-116,1,Max Verstappen,Red Bull Racing RBPT,NETHERLANDS,73.6,208.173
-115,63,George Russell,Mercedes,NETHERLANDS,73.6,208.119
-114,44,Lewis Hamilton,Mercedes,NETHERLANDS,73.8,207.604
-113,14,Fernando Alonso,Alpine Renault,NETHERLANDS,74.1,206.792
-112,11,Sergio Perez,Red Bull Racing RBPT,NETHERLANDS,74.4,206.069
-111,16,Charles Leclerc,Ferrari,NETHERLANDS,74.4,206.044
-110,55,Carlos Sainz,Ferrari,NETHERLANDS,74.6,205.409
-109,4,Lando Norris,McLaren Mercedes,NETHERLANDS,74.7,205.236
-108,5,Sebastian Vettel,Aston Martin Aramco Mercedes,NETHERLANDS,74.8,204.808
-107,18,Lance Stroll,Aston Martin Aramco Mercedes,NETHERLANDS,75.0,204.314
-106,31,Esteban Ocon,Alpine Renault,NETHERLANDS,75.0,204.203
-105,10,Pierre Gasly,Alpha Tauri RBPT,NETHERLANDS,75.1,203.983
-104,47,Mick Schumacher,Haas Ferrari,NETHERLANDS,75.2,203.798
-103,20,Kevin Magnussen,Haas Ferrari,NETHERLANDS,75.3,203.431
-102,23,Alexander Albon,Williams Mercedes,NETHERLANDS,75.5,202.986
-101,3,Daniel Ricciardo,McLaren Mercedes,NETHERLANDS,75.5,202.871
-100,24,Zhou Guanyu,Alfa Romeo Ferrari,NETHERLANDS,75.9,201.901
-99,6,Nicholas Latifi,Williams Mercedes,NETHERLANDS,76.0,201.567
-98,77,Valtteri Bottas,Alfa Romeo Ferrari,NETHERLANDS,76.8,199.526
-97,22,Yuki Tsunoda,Alpha Tauri RBPT,NETHERLANDS,77.1,198.765
-96,11,Sergio Perez,Red Bull Racing RBPT,ITALY2,84.0,248.182
-95,16,Charles Leclerc,Ferrari,ITALY2,84.3,247.282
-94,44,Lewis Hamilton,Mercedes,ITALY2,84.4,246.995
-93,55,Carlos Sainz,Ferrari,ITALY2,84.4,246.96
-92,4,Lando Norris,McLaren Mercedes,ITALY2,84.7,246.167
-91,1,Max Verstappen,Red Bull Racing RBPT,ITALY2,84.7,246.088
-90,63,George Russell,Mercedes,ITALY2,85.2,244.522
-89,47,Mick Schumacher,Haas Ferrari,ITALY2,85.2,244.493
-88,77,Valtteri Bottas,Alfa Romeo Ferrari,ITALY2,85.7,243.329
-87,24,Zhou Guanyu,Alfa Romeo Ferrari,ITALY2,86.3,241.484
-86,31,Esteban Ocon,Alpine Renault,ITALY2,86.5,240.837
-85,3,Daniel Ricciardo,McLaren Mercedes,ITALY2,86.6,240.809
-84,45,Nyck DeVries,Williams Mercedes,ITALY2,86.6,240.75
-83,10,Pierre Gasly,Alpha Tauri RBPT,ITALY2,86.7,240.489
-82,6,Nicholas Latifi,Williams Mercedes,ITALY2,86.7,240.268
-81,20,Kevin Magnussen,Haas Ferrari,ITALY2,86.7,240.268
-80,22,Yuki Tsunoda,Alpha Tauri RBPT,ITALY2,86.8,240.105
-79,14,Fernando Alonso,Alpine Renault,ITALY2,87.2,239.152
-78,18,Lance Stroll,Aston Martin Aramco Mercedes,ITALY2,87.4,238.43
-77,5,Sebastian Vettel,Aston Martin Aramco Mercedes,ITALY2,87.5,238.337
-76,63,George Russell,Mercedes,SINGAPORE,106.4,171.211
-75,11,Sergio Perez,Red Bull Racing RBPT,SINGAPORE,108.1,168.509
-74,55,Carlos Sainz,Ferrari,SINGAPORE,108.4,168.122
-73,16,Charles Leclerc,Ferrari,SINGAPORE,108.7,167.598
-72,1,Max Verstappen,Red Bull Racing RBPT,SINGAPORE,109.1,167.0
-71,4,Lando Norris,McLaren Mercedes,SINGAPORE,109.2,166.893
-70,18,Lance Stroll,Aston Martin Aramco Mercedes,SINGAPORE,110.2,165.272
-69,47,Mick Schumacher,Haas Ferrari,SINGAPORE,110.2,165.262
-68,10,Pierre Gasly,AlphaTauri RBPT,SINGAPORE,110.5,164.845
-67,44,Lewis Hamilton,Mercedes,SINGAPORE,110.6,164.766
-66,5,Sebastian Vettel,Aston Martin Aramco Mercedes,SINGAPORE,110.6,164.696
-65,3,Daniel Ricciardo,McLaren Mercedes,SINGAPORE,111.0,164.196
-64,77,Valtteri Bottas,Alfa Romeo Ferrari,SINGAPORE,111.8,162.937
-63,20,Kevin Magnussen,Haas Ferrari,SINGAPORE,112.0,162.641
-62,22,Yuki Tsunoda,AlphaTauri RBPT,SINGAPORE,118.7,153.532
-61,14,Fernando Alonso,Alpine Renault,SINGAPORE,120.4,151.306
-60,31,Esteban Ocon,Alpine Renault,SINGAPORE,121.1,150.504
-59,23,Alexander Albon,Williams Mercedes,SINGAPORE,122.1,149.251
-58,24,Zhou Guanyu,Alfa Romeo Ferrari,SINGAPORE,125.5,145.168
-57,6,Nicholas Latifi,Williams Mercedes,SINGAPORE,125.5,145.135
-56,24,Zhou Guanyu,Alfa Romeo Ferrari,JAPAN,104.4,200.22
-55,14,Fernando Alonso,Alpine Renault,JAPAN,104.4,200.218
-54,16,Charles Leclerc,Ferrari,JAPAN,104.4,200.07
-53,1,Max Verstappen,Red Bull Racing RBPT,JAPAN,104.9,199.266
-52,18,Lance Stroll,Aston Martin Aramco Mercedes,JAPAN,105.2,198.709
-51,10,Pierre Gasly,AlphaTauri RBPT,JAPAN,105.3,198.366
-50,44,Lewis Hamilton,Mercedes,JAPAN,105.5,198.097
-49,22,Yuki Tsunoda,AlphaTauri RBPT,JAPAN,105.8,197.418
-48,11,Sergio Perez,Red Bull Racing RBPT,JAPAN,106.1,196.995
-47,47,Mick Schumacher,Haas Ferrari,JAPAN,106.5,196.21
-46,31,Esteban Ocon,Alpine Renault,JAPAN,106.5,196.184
-45,5,Sebastian Vettel,Aston Martin Aramco Mercedes,JAPAN,106.9,195.441
-44,63,George Russell,Mercedes,JAPAN,107.0,195.368
-43,77,Valtteri Bottas,Alfa Romeo Ferrari,JAPAN,107.8,193.889
-42,3,Daniel Ricciardo,McLaren Mercedes,JAPAN,107.8,193.848
-41,20,Kevin Magnussen,Haas Ferrari,JAPAN,108.0,193.437
-40,4,Lando Norris,McLaren Mercedes,JAPAN,108.1,193.253
-39,6,Nicholas Latifi,Williams Mercedes,JAPAN,108.3,192.904
-38,63,George Russell,Mercedes,USA,98.7,200.902
-37,1,Max Verstappen,Red Bull Racing RBPT,USA,99.5,199.383
-36,11,Sergio Perez,Red Bull Racing RBPT,USA,99.5,199.339
-35,16,Charles Leclerc,Ferrari,USA,99.7,199.003
-34,44,Lewis Hamilton,Mercedes,USA,99.8,198.805
-33,31,Esteban Ocon,Alpine Renault,USA,101.2,196.031
-32,4,Lando Norris,McLaren Mercedes,USA,101.3,195.878
-31,5,Sebastian Vettel,Aston Martin Aramco Mercedes,USA,101.5,195.461
-30,10,Pierre Gasly,AlphaTauri RBPT,USA,101.6,195.2
-29,14,Fernando Alonso,Alpine Renault,USA,101.8,194.951
-28,22,Yuki Tsunoda,AlphaTauri RBPT,USA,102.2,194.184
-27,47,Mick Schumacher,Haas Ferrari,USA,102.3,193.967
-26,24,Zhou Guanyu,Alfa Romeo Ferrari,USA,102.3,193.827
-25,3,Daniel Ricciardo,McLaren Mercedes,USA,102.4,193.778
-24,23,Alexander Albon,Williams Mercedes,USA,102.4,193.682
-23,20,Kevin Magnussen,Haas Ferrari,USA,102.5,193.54
-22,18,Lance Stroll,Aston Martin Aramco Mercedes,USA,103.0,192.537
-21,77,Valtteri Bottas,Alfa Romeo Ferrari,USA,103.3,191.958
-20,6,Nicholas Latifi,Williams Mercedes,USA,103.4,191.784
-19,63,George Russell,Mercedes,MEXICO,80.1,193.31
-18,11,Sergio Perez,Red Bull Racing RBPT,MEXICO,81.7,189.476
-17,3,Daniel Ricciardo,McLaren Mercedes,MEXICO,82.0,188.905
-16,1,Max Verstappen,Red Bull Racing RBPT,MEXICO,82.0,188.85
-15,44,Lewis Hamilton,Mercedes,MEXICO,82.0,188.813
-14,55,Carlos Sainz,Ferrari,MEXICO,82.1,188.498
-13,24,Zhou Guanyu,Alfa Romeo Ferrari,MEXICO,82.2,188.358
-12,10,Pierre Gasly,AlphaTauri RBPT,MEXICO,82.2,188.319
-11,18,Lance Stroll,Aston Martin Aramco Mercedes,MEXICO,82.4,187.895
-10,16,Charles Leclerc,Ferrari,MEXICO,82.6,187.576
-9,14,Fernando Alonso,Alpine Renault,MEXICO,82.8,186.981
-8,23,Alexander Albon,Williams Mercedes,MEXICO,82.9,186.873
-7,5,Sebastian Vettel,Aston Martin Aramco Mercedes,MEXICO,83.0,186.486
-6,31,Esteban Ocon,Alpine Renault,MEXICO,83.2,186.054
-5,20,Kevin Magnussen,Haas Ferrari,MEXICO,83.3,186.007
-4,77,Valtteri Bottas,Alfa Romeo Ferrari,MEXICO,83.3,185.866
-3,4,Lando Norris,McLaren Mercedes,MEXICO,83.4,185.779
-2,22,Yuki Tsunoda,AlphaTauri RBPT,MEXICO,83.4,185.777
-1,47,Mick Schumacher,Haas Ferrari,MEXICO,83.6,185.248
-0,6,Nicholas Latifi,Williams Mercedes,MEXICO,83.7,185.098
+426,16,Charles Leclerc,Ferrari,BAHRAIN,94.6,206.018
+404,16,Charles Leclerc,Ferrari,BAHRAIN,94.6,206.018
+403,1,Max Verstappen,Red Bull Racing RBPT,BAHRAIN,95.4,204.14
+402,55,Carlos Sainz,Ferrari,BAHRAIN,95.7,203.501
+401,11,Sergio Perez,Red Bull Racing RBPT,BAHRAIN,96.1,202.762
+400,44,Lewis Hamilton,Mercedes,BAHRAIN,96.2,202.469
+399,63,George Russell,Mercedes,BAHRAIN,96.3,202.313
+398,77,Valtteri Bottas,Alfa Romeo Ferrari,BAHRAIN,96.6,201.691
+397,20,Kevin Magnussen,Haas Ferrari,BAHRAIN,96.6,201.641
+396,24,Zhou Guanyu,Alfa Romeo Ferrari,BAHRAIN,96.7,201.512
+395,14,Fernando Alonso,Alpine Renault,BAHRAIN,96.7,201.412
+394,47,Mick Schumacher,Haas Ferrari,BAHRAIN,97.0,200.948
+393,4,Lando Norris,McLaren Mercedes,BAHRAIN,97.0,200.882
+392,22,Yuki Tsunoda,AlphaTauri RBPT,BAHRAIN,97.1,200.642
+391,31,Esteban Ocon,Alpine Renault,BAHRAIN,97.1,200.63
+390,18,Lance Stroll,Aston Martin Aramco Mercedes,BAHRAIN,97.1,200.555
+389,3,Daniel Ricciardo,McLaren Mercedes,BAHRAIN,97.3,200.318
+388,10,Pierre Gasly,AlphaTauri RBPT,BAHRAIN,97.3,200.189
+387,23,Alexander Albon,Williams Mercedes,BAHRAIN,97.4,200.125
+386,27,Nico Hulkenberg,Aston Martin Aramco Mercedes,BAHRAIN,98.2,198.401
+385,6,Nicholas Latifi,Williams Mercedes,BAHRAIN,98.3,198.3
+384,16,Charles Leclerc,Ferrari,SAUDI ARABIA,91.6,242.556
+383,1,Max Verstappen,Red Bull Racing RBPT,SAUDI ARABIA,91.8,242.191
+382,55,Carlos Sainz,Ferrari,SAUDI ARABIA,91.9,241.841
+381,11,Sergio Perez,Red Bull Racing RBPT,SAUDI ARABIA,92.0,241.481
+380,4,Lando Norris,McLaren Mercedes,SAUDI ARABIA,92.8,239.629
+379,20,Kevin Magnussen,Haas Ferrari,SAUDI ARABIA,92.8,239.562
+378,63,George Russell,Mercedes,SAUDI ARABIA,92.8,239.454
+377,44,Lewis Hamilton,Mercedes,SAUDI ARABIA,93.0,239.001
+376,31,Esteban Ocon,Alpine Renault,SAUDI ARABIA,93.1,238.729
+375,10,Pierre Gasly,AlphaTauri RBPT,SAUDI ARABIA,93.5,237.796
+374,27,Nico Hulkenberg,Aston Martin Aramco Mercedes,SAUDI ARABIA,93.7,237.332
+373,14,Fernando Alonso,Alpine Renault,SAUDI ARABIA,93.8,236.876
+372,24,Zhou Guanyu,Alfa Romeo Ferrari,SAUDI ARABIA,93.9,236.642
+371,77,Valtteri Bottas,Alfa Romeo Ferrari,SAUDI ARABIA,94.0,236.503
+370,23,Alexander Albon,Williams Mercedes,SAUDI ARABIA,94.4,235.528
+369,18,Lance Stroll,Aston Martin Aramco Mercedes,SAUDI ARABIA,94.4,235.334
+368,3,Daniel Ricciardo,McLaren Mercedes,SAUDI ARABIA,94.5,235.232
+367,6,Nicholas Latifi,Williams Mercedes,SAUDI ARABIA,97.5,227.892
+366,16,Charles Leclerc,Ferrari,AUSTRALIA,80.3,236.74
+365,14,Fernando Alonso,Alpine Renault,AUSTRALIA,80.8,235.024
+364,11,Sergio Perez,Red Bull Racing RBPT,AUSTRALIA,81.1,234.305
+363,63,George Russell,Mercedes,AUSTRALIA,81.5,233.152
+362,77,Valtteri Bottas,Alfa Romeo Ferrari,AUSTRALIA,81.7,232.707
+361,1,Max Verstappen,Red Bull Racing RBPT,AUSTRALIA,81.7,232.633
+360,44,Lewis Hamilton,Mercedes,AUSTRALIA,81.9,232.039
+359,4,Lando Norris,McLaren Mercedes,AUSTRALIA,82.2,231.018
+358,3,Daniel Ricciardo,McLaren Mercedes,AUSTRALIA,82.5,230.449
+357,31,Esteban Ocon,Alpine Renault,AUSTRALIA,82.5,230.399
+356,24,Zhou Guanyu,Alfa Romeo Ferrari,AUSTRALIA,82.5,230.198
+355,23,Alexander Albon,Williams Mercedes,AUSTRALIA,82.6,230.064
+354,10,Pierre Gasly,AlphaTauri RBPT,AUSTRALIA,82.7,229.669
+353,47,Mick Schumacher,Haas Ferrari,AUSTRALIA,83.0,228.908
+352,20,Kevin Magnussen,Haas Ferrari,AUSTRALIA,83.1,228.729
+351,22,Yuki Tsunoda,AlphaTauri RBPT,AUSTRALIA,83.3,227.985
+350,18,Lance Stroll,Aston Martin Aramco Mercedes,AUSTRALIA,83.6,227.304
+349,6,Nicholas Latifi,Williams Mercedes,AUSTRALIA,83.9,226.518
+348,5,Sebastian Vettel,Aston Martin Aramco Mercedes,AUSTRALIA,85.2,223.042
+347,1,Max Verstappen,Red Bull Racing RBPT,ITALY,78.4,225.281
+346,16,Charles Leclerc,Ferrari,ITALY,78.6,224.914
+345,11,Sergio Perez,Red Bull Racing RBPT,ITALY,78.9,223.845
+344,47,Mick Schumacher,Haas Ferrari,ITALY,79.0,223.704
+343,22,Yuki Tsunoda,AlphaTauri RBPT,ITALY,80.5,219.412
+342,77,Valtteri Bottas,Alfa Romeo Ferrari,ITALY,80.8,218.831
+341,4,Lando Norris,McLaren Mercedes,ITALY,80.9,218.439
+340,63,George Russell,Mercedes,ITALY,81.0,218.28
+339,5,Sebastian Vettel,Aston Martin Aramco Mercedes,ITALY,81.2,217.61
+338,20,Kevin Magnussen,Haas Ferrari,ITALY,81.2,217.538
+337,24,Zhou Guanyu,Alfa Romeo Ferrari,ITALY,81.3,217.41
+336,6,Nicholas Latifi,Williams Mercedes,ITALY,81.3,217.271
+335,44,Lewis Hamilton,Mercedes,ITALY,81.4,217.054
+334,3,Daniel Ricciardo,McLaren Mercedes,ITALY,81.6,216.634
+333,10,Pierre Gasly,AlphaTauri RBPT,ITALY,81.7,216.274
+332,18,Lance Stroll,Aston Martin Aramco Mercedes,ITALY,81.8,216.176
+331,23,Alexander Albon,Williams Mercedes,ITALY,81.8,216.157
+330,31,Esteban Ocon,Alpine Renault,ITALY,81.9,215.814
+329,14,Fernando Alonso,Alpine Renault,ITALY,99.7,177.282
+328,1,Max Verstappen,Red Bull Racing RBPT,MIAMI,91.4,213.255
+327,16,Charles Leclerc,Ferrari,MIAMI,91.5,212.959
+326,55,Carlos Sainz,Ferrari,MIAMI,91.8,212.258
+325,11,Sergio Perez,Red Bull Racing RBPT,MIAMI,91.8,212.191
+324,63,George Russell,Mercedes,MIAMI,92.2,211.325
+323,47,Mick Schumacher,Haas Ferrari,MIAMI,92.5,210.565
+322,44,Lewis Hamilton,Mercedes,MIAMI,92.9,209.629
+321,22,Yuki Tsunoda,AlphaTauri RBPT,MIAMI,93.0,209.417
+320,31,Esteban Ocon,Alpine Renault,MIAMI,93.2,209.13
+319,77,Valtteri Bottas,Alfa Romeo Ferrari,MIAMI,93.2,209.083
+318,3,Daniel Ricciardo,McLaren Mercedes,MIAMI,93.3,208.901
+317,18,Lance Stroll,Aston Martin Aramco Mercedes,MIAMI,93.3,208.796
+316,14,Fernando Alonso,Alpine Renault,MIAMI,93.3,208.753
+315,4,Lando Norris,McLaren Mercedes,MIAMI,93.4,208.575
+314,23,Alexander Albon,Williams Mercedes,MIAMI,93.4,208.494
+313,5,Sebastian Vettel,Aston Martin Aramco Mercedes,MIAMI,93.5,208.423
+312,20,Kevin Magnussen,Haas Ferrari,MIAMI,93.5,208.351
+311,6,Nicholas Latifi,Williams Mercedes,MIAMI,94.2,206.896
+310,10,Pierre Gasly,AlphaTauri RBPT,MIAMI,94.5,206.199
+309,24,Zhou Guanyu,Alfa Romeo Ferrari,MIAMI,95.7,203.52
+308,11,Sergio Perez,Red Bull Racing RBPT,SPAIN,84.1,200.099
+307,44,Lewis Hamilton,Mercedes,SPAIN,84.3,199.755
+306,63,George Russell,Mercedes,SPAIN,84.6,198.851
+305,1,Max Verstappen,Red Bull Racing RBPT,SPAIN,85.5,196.943
+304,4,Lando Norris,McLaren Mercedes,SPAIN,85.6,196.568
+303,31,Esteban Ocon,Alpine Renault,SPAIN,85.9,195.845
+302,55,Carlos Sainz,Ferrari,SPAIN,86.0,195.731
+301,77,Valtteri Bottas,Alfa Romeo Ferrari,SPAIN,86.4,194.802
+300,14,Fernando Alonso,Alpine Renault,SPAIN,86.6,194.344
+299,22,Yuki Tsunoda,AlphaTauri RBPT,SPAIN,86.8,193.831
+298,18,Lance Stroll,Aston Martin Aramco Mercedes,SPAIN,86.9,193.724
+297,10,Pierre Gasly,AlphaTauri RBPT,SPAIN,87.0,193.477
+296,16,Charles Leclerc,Ferrari,SPAIN,87.0,193.381
+295,6,Nicholas Latifi,Williams Mercedes,SPAIN,87.2,192.902
+294,3,Daniel Ricciardo,McLaren Mercedes,SPAIN,87.3,192.816
+293,47,Mick Schumacher,Haas Ferrari,SPAIN,87.4,192.459
+292,20,Kevin Magnussen,Haas Ferrari,SPAIN,87.5,192.261
+291,5,Sebastian Vettel,Aston Martin Aramco Mercedes,SPAIN,87.6,192.059
+290,23,Alexander Albon,Williams Mercedes,SPAIN,88.3,190.641
+289,24,Zhou Guanyu,Alfa Romeo Ferrari,SPAIN,88.4,190.352
+288,4,Lando Norris,McLaren Mercedes,MONACO,74.7,160.834
+287,22,Yuki Tsunoda,AlphaTauri RBPT,MONACO,75.3,159.465
+286,14,Fernando Alonso,Alpine Renault,MONACO,75.9,158.314
+285,11,Sergio Perez,Red Bull Racing RBPT,MONACO,76.0,158.01
+284,1,Max Verstappen,Red Bull Racing RBPT,MONACO,76.1,157.96
+283,16,Charles Leclerc,Ferrari,MONACO,76.2,157.552
+282,55,Carlos Sainz,Ferrari,MONACO,76.4,157.197
+281,63,George Russell,Mercedes,MONACO,76.8,156.36
+280,44,Lewis Hamilton,Mercedes,MONACO,77.2,155.605
+279,10,Pierre Gasly,AlphaTauri RBPT,MONACO,77.3,155.321
+278,3,Daniel Ricciardo,McLaren Mercedes,MONACO,77.5,154.945
+277,5,Sebastian Vettel,Aston Martin Aramco Mercedes,MONACO,77.6,154.893
+276,31,Esteban Ocon,Alpine Renault,MONACO,77.6,154.867
+275,77,Valtteri Bottas,Alfa Romeo Ferrari,MONACO,77.6,154.809
+274,18,Lance Stroll,Aston Martin Aramco Mercedes,MONACO,77.7,154.665
+273,23,Alexander Albon,Williams Mercedes,MONACO,78.0,153.969
+272,24,Zhou Guanyu,Alfa Romeo Ferrari,MONACO,78.2,153.621
+271,6,Nicholas Latifi,Williams Mercedes,MONACO,78.6,152.88
+270,47,Mick Schumacher,Haas Ferrari,MONACO,84.8,141.701
+269,20,Kevin Magnussen,Haas Ferrari,MONACO,93.8,128.135
+268,11,Sergio Perez,Red Bull Racing RBPT,AZERBAIJAN,106.0,203.787
+267,1,Max Verstappen,Red Bull Racing RBPT,AZERBAIJAN,106.1,203.779
+266,44,Lewis Hamilton,Mercedes,AZERBAIJAN,107.0,201.887
+265,63,George Russell,Mercedes,AZERBAIJAN,107.2,201.636
+264,22,Yuki Tsunoda,AlphaTauri RBPT,AZERBAIJAN,107.5,200.987
+263,16,Charles Leclerc,Ferrari,AZERBAIJAN,107.5,200.972
+262,23,Alexander Albon,Williams Mercedes,AZERBAIJAN,108.0,200.163
+261,14,Fernando Alonso,Alpine Renault,AZERBAIJAN,108.0,200.12
+260,4,Lando Norris,McLaren Mercedes,AZERBAIJAN,108.0,200.105
+259,18,Lance Stroll,Aston Martin Aramco Mercedes,AZERBAIJAN,108.0,200.029
+258,77,Valtteri Bottas,Alfa Romeo Ferrari,AZERBAIJAN,108.2,199.768
+257,5,Sebastian Vettel,Aston Martin Aramco Mercedes,AZERBAIJAN,108.2,199.719
+256,3,Daniel Ricciardo,McLaren Mercedes,AZERBAIJAN,108.3,199.589
+255,31,Esteban Ocon,Alpine Renault,AZERBAIJAN,108.3,199.551
+254,47,Mick Schumacher,Haas Ferrari,AZERBAIJAN,108.4,199.343
+253,10,Pierre Gasly,AlphaTauri RBPT,AZERBAIJAN,108.5,199.143
+252,24,Zhou Guanyu,Alfa Romeo Ferrari,AZERBAIJAN,108.7,198.769
+251,20,Kevin Magnussen,Haas Ferrari,AZERBAIJAN,108.8,198.648
+250,55,Carlos Sainz,Ferrari,AZERBAIJAN,109.0,198.304
+249,6,Nicholas Latifi,Williams Mercedes,AZERBAIJAN,109.6,197.209
+248,55,Carlos Sainz,Ferrari,CANADA,75.7,207.258
+247,1,Max Verstappen,Red Bull Racing RBPT,CANADA,75.8,207.012
+246,16,Charles Leclerc,Ferrari,CANADA,75.9,206.843
+245,44,Lewis Hamilton,Mercedes,CANADA,76.2,206.12
+244,63,George Russell,Mercedes,CANADA,76.4,205.443
+243,24,Zhou Guanyu,Alfa Romeo Ferrari,CANADA,76.6,205.014
+242,77,Valtteri Bottas,Alfa Romeo Ferrari,CANADA,76.9,204.084
+241,14,Fernando Alonso,Alpine Renault,CANADA,77.0,203.864
+240,31,Esteban Ocon,Alpine Renault,CANADA,77.1,203.6
+239,18,Lance Stroll,Aston Martin Aramco Mercedes,CANADA,77.4,202.782
+238,4,Lando Norris,McLaren Mercedes,CANADA,77.5,202.588
+237,10,Pierre Gasly,AlphaTauri RBPT,CANADA,77.8,201.768
+236,3,Daniel Ricciardo,McLaren Mercedes,CANADA,77.9,201.452
+235,23,Alexander Albon,Williams Mercedes,CANADA,78.0,201.403
+234,5,Sebastian Vettel,Aston Martin Aramco Mercedes,CANADA,78.0,201.39
+233,20,Kevin Magnussen,Haas Ferrari,CANADA,78.0,201.158
+232,22,Yuki Tsunoda,AlphaTauri RBPT,CANADA,78.3,200.482
+231,6,Nicholas Latifi,Williams Mercedes,CANADA,78.5,199.893
+230,11,Sergio Perez,Red Bull Racing RBPT,CANADA,78.8,199.122
+229,47,Mick Schumacher,Haas Ferrari,CANADA,79.0,198.812
+228,44,Lewis Hamilton,Mercedes,GREAT BRITAIN,90.5,234.312
+227,55,Carlos Sainz,Ferrari,GREAT BRITAIN,90.8,233.53
+226,11,Sergio Perez,Red Bull Racing RBPT,GREAT BRITAIN,90.9,233.212
+225,16,Charles Leclerc,Ferrari,GREAT BRITAIN,91.3,232.33
+224,14,Fernando Alonso,Alpine Renault,GREAT BRITAIN,91.6,231.501
+223,4,Lando Norris,McLaren Mercedes,GREAT BRITAIN,91.6,231.41
+222,47,Mick Schumacher,Haas Ferrari,GREAT BRITAIN,92.1,230.244
+221,1,Max Verstappen,Red Bull Racing RBPT,GREAT BRITAIN,92.4,229.633
+220,18,Lance Stroll,Aston Martin Aramco Mercedes,GREAT BRITAIN,92.4,229.571
+219,5,Sebastian Vettel,Aston Martin Aramco Mercedes,GREAT BRITAIN,92.5,229.343
+218,3,Daniel Ricciardo,McLaren Mercedes,GREAT BRITAIN,92.6,228.914
+217,20,Kevin Magnussen,Haas Ferrari,GREAT BRITAIN,92.7,228.872
+216,6,Nicholas Latifi,Williams Mercedes,GREAT BRITAIN,93.3,227.339
+215,31,Esteban Ocon,Alpine Renault,GREAT BRITAIN,93.5,226.729
+214,22,Yuki Tsunoda,AlphaTauri RBPT,GREAT BRITAIN,93.8,226.016
+213,10,Pierre Gasly,AlphaTauri RBPT,GREAT BRITAIN,94.6,224.148
+212,77,Valtteri Bottas,Alfa Romeo Ferrari,GREAT BRITAIN,95.1,222.996
+211,1,Max Verstappen,Red Bull Racing RBPT,AUSTRIA,67.3,231.063
+210,16,Charles Leclerc,Ferrari,AUSTRIA,67.6,230.01
+209,14,Fernando Alonso,Alpine Renault,AUSTRIA,68.6,226.739
+208,55,Carlos Sainz,Ferrari,AUSTRIA,68.6,226.438
+207,44,Lewis Hamilton,Mercedes,AUSTRIA,69.0,225.286
+206,63,George Russell,Mercedes,AUSTRIA,69.1,225.042
+205,77,Valtteri Bottas,Alfa Romeo Ferrari,AUSTRIA,69.3,224.421
+204,4,Lando Norris,McLaren Mercedes,AUSTRIA,69.3,224.298
+203,24,Zhou Guanyu,Alfa Romeo Ferrari,AUSTRIA,69.4,224.053
+202,31,Esteban Ocon,Alpine Renault,AUSTRIA,69.6,223.476
+201,47,Mick Schumacher,Haas Ferrari,AUSTRIA,69.6,223.264
+200,23,Alexander Albon,Williams Mercedes,AUSTRIA,69.7,223.123
+199,3,Daniel Ricciardo,McLaren Mercedes,AUSTRIA,69.9,222.309
+198,20,Kevin Magnussen,Haas Ferrari,AUSTRIA,69.9,222.265
+197,5,Sebastian Vettel,Aston Martin Aramco Mercedes,AUSTRIA,70.0,222.065
+196,22,Yuki Tsunoda,AlphaTauri RBPT,AUSTRIA,70.0,221.995
+195,18,Lance Stroll,Aston Martin Aramco Mercedes,AUSTRIA,70.0,221.916
+194,10,Pierre Gasly,AlphaTauri RBPT,AUSTRIA,70.1,221.739
+193,6,Nicholas Latifi,Williams Mercedes,AUSTRIA,70.9,219.28
+192,11,Sergio Perez,Red Bull Racing RBPT,AUSTRIA,71.8,216.371
+191,55,Carlos Sainz,Ferrari,FRANCE,95.8,219.575
+190,1,Max Verstappen,Red Bull Racing RBPT,FRANCE,97.5,215.724
+189,63,George Russell,Mercedes,FRANCE,97.5,215.598
+188,44,Lewis Hamilton,Mercedes,FRANCE,97.7,215.333
+187,11,Sergio Perez,Red Bull Racing RBPT,FRANCE,97.8,215.086
+186,77,Valtteri Bottas,Alfa Romeo Ferrari,FRANCE,98.0,214.685
+185,16,Charles Leclerc,Ferrari,FRANCE,98.1,214.411
+184,14,Fernando Alonso,Alpine Renault,FRANCE,98.2,214.254
+183,31,Esteban Ocon,Alpine Renault,FRANCE,98.7,213.116
+182,10,Pierre Gasly,AlphaTauri RBPT,FRANCE,98.8,212.896
+181,4,Lando Norris,McLaren Mercedes,FRANCE,99.0,212.356
+180,5,Sebastian Vettel,Aston Martin Aramco Mercedes,FRANCE,99.0,212.341
+179,47,Mick Schumacher,Haas Ferrari,FRANCE,99.1,212.29
+178,3,Daniel Ricciardo,McLaren Mercedes,FRANCE,99.1,212.151
+177,18,Lance Stroll,Aston Martin Aramco Mercedes,FRANCE,99.2,212.04
+176,23,Alexander Albon,Williams Mercedes,FRANCE,99.2,212.01
+175,20,Kevin Magnussen,Haas Ferrari,FRANCE,99.3,211.869
+174,24,Zhou Guanyu,Alfa Romeo Ferrari,FRANCE,99.4,211.649
+173,6,Nicholas Latifi,Williams Mercedes,FRANCE,99.6,211.05
+172,22,Yuki Tsunoda,AlphaTauri RBPT,FRANCE,100.2,209.858
+171,44,Lewis Hamilton,Mercedes,HUNGARY,81.3,193.787
+170,16,Charles Leclerc,Ferrari,HUNGARY,81.6,193.227
+169,11,Sergio Perez,Red Bull Racing RBPT,HUNGARY,81.9,192.477
+168,55,Carlos Sainz,Ferrari,HUNGARY,82.0,192.336
+167,24,Zhou Guanyu,Alfa Romeo Ferrari,HUNGARY,82.0,192.268
+166,1,Max Verstappen,Red Bull Racing RBPT,HUNGARY,82.1,192.041
+165,18,Lance Stroll,Aston Martin Aramco Mercedes,HUNGARY,82.4,191.317
+164,6,Nicholas Latifi,Williams Mercedes,HUNGARY,82.4,191.221
+163,63,George Russell,Mercedes,HUNGARY,82.7,190.556
+162,5,Sebastian Vettel,Aston Martin Aramco Mercedes,HUNGARY,82.8,190.423
+161,4,Lando Norris,McLaren Mercedes,HUNGARY,83.0,189.92
+160,23,Alexander Albon,Williams Mercedes,HUNGARY,83.0,189.911
+159,47,Mick Schumacher,Haas Ferrari,HUNGARY,83.1,189.674
+158,10,Pierre Gasly,Alpha Tauri RBPT,HUNGARY,83.1,189.564
+157,20,Kevin Magnussen,Haas Ferrari,HUNGARY,83.5,188.856
+156,22,Yuki Tsunoda,Alpha Tauri RBPT,HUNGARY,83.5,188.795
+155,3,Daniel Ricciardo,McLaren Mercedes,HUNGARY,83.6,188.533
+154,14,Fernando Alonso,Alpine Renault,HUNGARY,83.9,187.804
+153,77,Valtteri Bottas,Alfa Romeo Ferrari,HUNGARY,84.0,187.752
+152,31,Esteban Ocon,Alpine Renault,HUNGARY,84.1,187.424
+151,1,Max Verstappen,Red Bull Racing RBPT,BELGUIM,109.3,230.575
+150,16,Charles Leclerc,Ferrari,BELGUIM,109.9,229.255
+149,11,Sergio Perez,Red Bull Racing RBPT,BELGUIM,110.7,227.64
+148,63,George Russell,Mercedes,BELGUIM,110.7,227.581
+147,4,Lando Norris,McLaren Mercedes,BELGUIM,111.6,225.777
+146,31,Esteban Ocon,Alpine Renault,BELGUIM,111.7,225.698
+145,55,Carlos Sainz,Ferrari,BELGUIM,111.9,225.174
+144,6,Nicholas Latifi,Williams Mercedes,BELGUIM,112.2,224.615
+143,24,Zhou Guanyu,Alfa Romeo Ferrari,BELGUIM,112.3,224.493
+142,22,Yuki Tsunoda,Alpha Tauri RBPT,BELGUIM,112.4,224.255
+141,5,Sebastian Vettel,Aston Martin Aramco Mercedes,BELGUIM,112.5,224.098
+140,47,Mick Schumacher,Haas Ferrari,BELGUIM,112.6,223.837
+139,14,Fernando Alonso,Alpine Renault,BELGUIM,112.8,223.397
+138,18,Lance Stroll,Aston Martin Aramco Mercedes,BELGUIM,112.8,223.373
+137,10,Pierre Gasly,Alpha Tauri RBPT,BELGUIM,113.0,223.132
+136,23,Alexander Albon,Williams Mercedes,BELGUIM,113.0,223.027
+135,3,Daniel Ricciardo,McLaren Mercedes,BELGUIM,113.0,222.978
+134,20,Kevin Magnussen,Haas Ferrari,BELGUIM,113.3,222.482
+133,1,Max Verstappen,Red Bull Racing RBPT,NETHERLANDS,73.6,208.173
+132,63,George Russell,Mercedes,NETHERLANDS,73.6,208.119
+131,44,Lewis Hamilton,Mercedes,NETHERLANDS,73.8,207.604
+130,14,Fernando Alonso,Alpine Renault,NETHERLANDS,74.1,206.792
+129,11,Sergio Perez,Red Bull Racing RBPT,NETHERLANDS,74.4,206.069
+128,16,Charles Leclerc,Ferrari,NETHERLANDS,74.4,206.044
+127,55,Carlos Sainz,Ferrari,NETHERLANDS,74.6,205.409
+126,4,Lando Norris,McLaren Mercedes,NETHERLANDS,74.7,205.236
+125,5,Sebastian Vettel,Aston Martin Aramco Mercedes,NETHERLANDS,74.8,204.808
+124,18,Lance Stroll,Aston Martin Aramco Mercedes,NETHERLANDS,75.0,204.314
+123,31,Esteban Ocon,Alpine Renault,NETHERLANDS,75.0,204.203
+122,10,Pierre Gasly,Alpha Tauri RBPT,NETHERLANDS,75.1,203.983
+121,47,Mick Schumacher,Haas Ferrari,NETHERLANDS,75.2,203.798
+120,20,Kevin Magnussen,Haas Ferrari,NETHERLANDS,75.3,203.431
+119,23,Alexander Albon,Williams Mercedes,NETHERLANDS,75.5,202.986
+118,3,Daniel Ricciardo,McLaren Mercedes,NETHERLANDS,75.5,202.871
+117,24,Zhou Guanyu,Alfa Romeo Ferrari,NETHERLANDS,75.9,201.901
+116,6,Nicholas Latifi,Williams Mercedes,NETHERLANDS,76.0,201.567
+115,77,Valtteri Bottas,Alfa Romeo Ferrari,NETHERLANDS,76.8,199.526
+114,22,Yuki Tsunoda,Alpha Tauri RBPT,NETHERLANDS,77.1,198.765
+113,11,Sergio Perez,Red Bull Racing RBPT,ITALY2,84.0,248.182
+112,16,Charles Leclerc,Ferrari,ITALY2,84.3,247.282
+111,44,Lewis Hamilton,Mercedes,ITALY2,84.4,246.995
+110,55,Carlos Sainz,Ferrari,ITALY2,84.4,246.96
+109,4,Lando Norris,McLaren Mercedes,ITALY2,84.7,246.167
+108,1,Max Verstappen,Red Bull Racing RBPT,ITALY2,84.7,246.088
+107,63,George Russell,Mercedes,ITALY2,85.2,244.522
+106,47,Mick Schumacher,Haas Ferrari,ITALY2,85.2,244.493
+105,77,Valtteri Bottas,Alfa Romeo Ferrari,ITALY2,85.7,243.329
+104,24,Zhou Guanyu,Alfa Romeo Ferrari,ITALY2,86.3,241.484
+103,31,Esteban Ocon,Alpine Renault,ITALY2,86.5,240.837
+102,3,Daniel Ricciardo,McLaren Mercedes,ITALY2,86.6,240.809
+101,45,Nyck DeVries,Williams Mercedes,ITALY2,86.6,240.75
+100,10,Pierre Gasly,Alpha Tauri RBPT,ITALY2,86.7,240.489
+99,6,Nicholas Latifi,Williams Mercedes,ITALY2,86.7,240.268
+98,20,Kevin Magnussen,Haas Ferrari,ITALY2,86.7,240.268
+97,22,Yuki Tsunoda,Alpha Tauri RBPT,ITALY2,86.8,240.105
+96,14,Fernando Alonso,Alpine Renault,ITALY2,87.2,239.152
+95,18,Lance Stroll,Aston Martin Aramco Mercedes,ITALY2,87.4,238.43
+94,5,Sebastian Vettel,Aston Martin Aramco Mercedes,ITALY2,87.5,238.337
+93,63,George Russell,Mercedes,SINGAPORE,106.4,171.211
+92,11,Sergio Perez,Red Bull Racing RBPT,SINGAPORE,108.1,168.509
+91,55,Carlos Sainz,Ferrari,SINGAPORE,108.4,168.122
+90,16,Charles Leclerc,Ferrari,SINGAPORE,108.7,167.598
+89,1,Max Verstappen,Red Bull Racing RBPT,SINGAPORE,109.1,167.0
+88,4,Lando Norris,McLaren Mercedes,SINGAPORE,109.2,166.893
+87,18,Lance Stroll,Aston Martin Aramco Mercedes,SINGAPORE,110.2,165.272
+86,47,Mick Schumacher,Haas Ferrari,SINGAPORE,110.2,165.262
+85,10,Pierre Gasly,AlphaTauri RBPT,SINGAPORE,110.5,164.845
+84,44,Lewis Hamilton,Mercedes,SINGAPORE,110.6,164.766
+83,5,Sebastian Vettel,Aston Martin Aramco Mercedes,SINGAPORE,110.6,164.696
+82,3,Daniel Ricciardo,McLaren Mercedes,SINGAPORE,111.0,164.196
+81,77,Valtteri Bottas,Alfa Romeo Ferrari,SINGAPORE,111.8,162.937
+80,20,Kevin Magnussen,Haas Ferrari,SINGAPORE,112.0,162.641
+79,22,Yuki Tsunoda,AlphaTauri RBPT,SINGAPORE,118.7,153.532
+78,14,Fernando Alonso,Alpine Renault,SINGAPORE,120.4,151.306
+77,31,Esteban Ocon,Alpine Renault,SINGAPORE,121.1,150.504
+76,23,Alexander Albon,Williams Mercedes,SINGAPORE,122.1,149.251
+75,24,Zhou Guanyu,Alfa Romeo Ferrari,SINGAPORE,125.5,145.168
+74,6,Nicholas Latifi,Williams Mercedes,SINGAPORE,125.5,145.135
+73,24,Zhou Guanyu,Alfa Romeo Ferrari,JAPAN,104.4,200.22
+72,14,Fernando Alonso,Alpine Renault,JAPAN,104.4,200.218
+71,16,Charles Leclerc,Ferrari,JAPAN,104.4,200.07
+70,1,Max Verstappen,Red Bull Racing RBPT,JAPAN,104.9,199.266
+69,18,Lance Stroll,Aston Martin Aramco Mercedes,JAPAN,105.2,198.709
+68,10,Pierre Gasly,AlphaTauri RBPT,JAPAN,105.3,198.366
+67,44,Lewis Hamilton,Mercedes,JAPAN,105.5,198.097
+66,22,Yuki Tsunoda,AlphaTauri RBPT,JAPAN,105.8,197.418
+65,11,Sergio Perez,Red Bull Racing RBPT,JAPAN,106.1,196.995
+64,47,Mick Schumacher,Haas Ferrari,JAPAN,106.5,196.21
+63,31,Esteban Ocon,Alpine Renault,JAPAN,106.5,196.184
+62,5,Sebastian Vettel,Aston Martin Aramco Mercedes,JAPAN,106.9,195.441
+61,63,George Russell,Mercedes,JAPAN,107.0,195.368
+60,77,Valtteri Bottas,Alfa Romeo Ferrari,JAPAN,107.8,193.889
+59,3,Daniel Ricciardo,McLaren Mercedes,JAPAN,107.8,193.848
+58,20,Kevin Magnussen,Haas Ferrari,JAPAN,108.0,193.437
+57,4,Lando Norris,McLaren Mercedes,JAPAN,108.1,193.253
+56,6,Nicholas Latifi,Williams Mercedes,JAPAN,108.3,192.904
+55,63,George Russell,Mercedes,USA,98.7,200.902
+54,1,Max Verstappen,Red Bull Racing RBPT,USA,99.5,199.383
+53,11,Sergio Perez,Red Bull Racing RBPT,USA,99.5,199.339
+52,16,Charles Leclerc,Ferrari,USA,99.7,199.003
+51,44,Lewis Hamilton,Mercedes,USA,99.8,198.805
+50,31,Esteban Ocon,Alpine Renault,USA,101.2,196.031
+49,4,Lando Norris,McLaren Mercedes,USA,101.3,195.878
+48,5,Sebastian Vettel,Aston Martin Aramco Mercedes,USA,101.5,195.461
+47,10,Pierre Gasly,AlphaTauri RBPT,USA,101.6,195.2
+46,14,Fernando Alonso,Alpine Renault,USA,101.8,194.951
+45,22,Yuki Tsunoda,AlphaTauri RBPT,USA,102.2,194.184
+44,47,Mick Schumacher,Haas Ferrari,USA,102.3,193.967
+43,24,Zhou Guanyu,Alfa Romeo Ferrari,USA,102.3,193.827
+42,3,Daniel Ricciardo,McLaren Mercedes,USA,102.4,193.778
+41,23,Alexander Albon,Williams Mercedes,USA,102.4,193.682
+40,20,Kevin Magnussen,Haas Ferrari,USA,102.5,193.54
+39,18,Lance Stroll,Aston Martin Aramco Mercedes,USA,103.0,192.537
+38,77,Valtteri Bottas,Alfa Romeo Ferrari,USA,103.3,191.958
+37,6,Nicholas Latifi,Williams Mercedes,USA,103.4,191.784
+36,63,George Russell,Mercedes,MEXICO,80.1,193.31
+35,11,Sergio Perez,Red Bull Racing RBPT,MEXICO,81.7,189.476
+34,3,Daniel Ricciardo,McLaren Mercedes,MEXICO,82.0,188.905
+33,1,Max Verstappen,Red Bull Racing RBPT,MEXICO,82.0,188.85
+32,44,Lewis Hamilton,Mercedes,MEXICO,82.0,188.813
+31,55,Carlos Sainz,Ferrari,MEXICO,82.1,188.498
+30,24,Zhou Guanyu,Alfa Romeo Ferrari,MEXICO,82.2,188.358
+29,10,Pierre Gasly,AlphaTauri RBPT,MEXICO,82.2,188.319
+28,18,Lance Stroll,Aston Martin Aramco Mercedes,MEXICO,82.4,187.895
+27,16,Charles Leclerc,Ferrari,MEXICO,82.6,187.576
+26,14,Fernando Alonso,Alpine Renault,MEXICO,82.8,186.981
+25,23,Alexander Albon,Williams Mercedes,MEXICO,82.9,186.873
+24,5,Sebastian Vettel,Aston Martin Aramco Mercedes,MEXICO,83.0,186.486
+23,31,Esteban Ocon,Alpine Renault,MEXICO,83.2,186.054
+22,20,Kevin Magnussen,Haas Ferrari,MEXICO,83.3,186.007
+21,77,Valtteri Bottas,Alfa Romeo Ferrari,MEXICO,83.3,185.866
+20,4,Lando Norris,McLaren Mercedes,MEXICO,83.4,185.779
+19,22,Yuki Tsunoda,AlphaTauri RBPT,MEXICO,83.4,185.777
+18,47,Mick Schumacher,Haas Ferrari,MEXICO,83.6,185.248
+17,6,Nicholas Latifi,Williams Mercedes,MEXICO,83.7,185.098
+16,63,George Russell,Mercedes,BRAZIL,73.7,210.237
+15,44,Lewis Hamilton,Mercedes,BRAZIL,73.9,209.791
+14,55,Carlos Sainz,Ferrari,BRAZIL,73.9,209.76
+13,14,Fernando Alonso,Alpine Renault,BRAZIL,74.1,209.163
+12,1,Max Verstappen,Red Bull Racing RBPT,BRAZIL,74.1,209.076
+11,16,Charles Leclerc,Ferrari,BRAZIL,74.2,208.912
+10,11,Sergio Perez,Red Bull Racing RBPT,BRAZIL,74.2,208.828
+9,18,Lance Stroll,Aston Martin Aramco Mercedes,BRAZIL,74.8,207.299
+8,31,Esteban Ocon,Alpine Renault,BRAZIL,75.0,206.575
+7,47,Mick Schumacher,Haas Ferrari,BRAZIL,75.2,206.142
+6,6,Nicholas Latifi,Williams Mercedes,BRAZIL,75.3,205.934
+5,10,Pierre Gasly,AlphaTauri RBPT,BRAZIL,75.3,205.934
+4,22,Yuki Tsunoda,AlphaTauri RBPT,BRAZIL,75.5,205.44
+3,77,Valtteri Bottas,Alfa Romeo Ferrari,BRAZIL,75.5,205.432
+2,5,Sebastian Vettel,Aston Martin Aramco Mercedes,BRAZIL,75.5,205.328
+1,23,Alexander Albon,Williams Mercedes,BRAZIL,75.6,205.155
+0,24,Zhou Guanyu,Alfa Romeo Ferrari,BRAZIL,75.8,204.643
+-1,4,Lando Norris,McLaren Mercedes,BRAZIL,75.8,204.5
